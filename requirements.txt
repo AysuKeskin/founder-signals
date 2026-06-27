@@ -1,0 +1,7 @@
+typer==0.26.7
+pydantic==2.13.4
+httpx==0.28.1
+ddgs==9.14.4
+mcp==1.28.0
+
+pytest==9.1.1

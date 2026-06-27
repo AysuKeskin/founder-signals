@@ -1,0 +1,30 @@
+services:
+  cli:
+    build: .
+    image: founder-signals
+    environment:
+      FS_SOURCE: cached
+    volumes:
+      - ./data:/app/data
+      - ./src/founder_signals/sources/fixtures:/app/src/founder_signals/sources/fixtures
+
+  capture:
+    build: .
+    image: founder-signals
+    environment:
+      FS_SOURCE: live
+    entrypoint: ["founder-signals", "capture"]
+    volumes:
+      - ./src/founder_signals/sources/fixtures:/app/src/founder_signals/sources/fixtures
+
+  mcp:
+    build: .
+    image: founder-signals
+    environment:
+      FS_SOURCE: auto
+    entrypoint: ["python", "-m", "founder_signals.mcp_server"]
+    stdin_open: true
+    tty: false
+    volumes:
+      - ./data:/app/data
+      - ./src/founder_signals/sources/fixtures:/app/src/founder_signals/sources/fixtures

@@ -1,0 +1,2882 @@
+{
+  "nodes": [
+    {
+      "id": "founder:p_cf5d0b4cb0c6294e",
+      "label": "Tarık Demir",
+      "kind": "founder"
+    },
+    {
+      "id": "company:lisa-ai",
+      "label": "Lisa AI",
+      "kind": "company"
+    },
+    {
+      "id": "region:turkiye",
+      "label": "turkiye",
+      "kind": "region"
+    },
+    {
+      "id": "sector:ai-ml",
+      "label": "AI/ML",
+      "kind": "sector"
+    },
+    {
+      "id": "founder:p_5b69bfd692b3a98e",
+      "label": "Mustafa Girgin",
+      "kind": "founder"
+    },
+    {
+      "id": "company:lucida-ai",
+      "label": "Lucida AI",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_9b424537c7117df9",
+      "label": "Mustafa İçer",
+      "kind": "founder"
+    },
+    {
+      "id": "company:peopleoma",
+      "label": "Peopleoma",
+      "kind": "company"
+    },
+    {
+      "id": "sector:saas",
+      "label": "SaaS",
+      "kind": "sector"
+    },
+    {
+      "id": "founder:p_07d24ea98e0c9630",
+      "label": "Talha Salt",
+      "kind": "founder"
+    },
+    {
+      "id": "company:stealth-fintech-startup",
+      "label": "Stealth FinTech Startup",
+      "kind": "company"
+    },
+    {
+      "id": "sector:cybersecurity",
+      "label": "Cybersecurity",
+      "kind": "sector"
+    },
+    {
+      "id": "sector:fintech",
+      "label": "Fintech",
+      "kind": "sector"
+    },
+    {
+      "id": "sector:healthtech",
+      "label": "Healthtech",
+      "kind": "sector"
+    },
+    {
+      "id": "founder:p_aa354ad5e1099ca3",
+      "label": "Babken Gevorgyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:layerswap",
+      "label": "Layerswap",
+      "kind": "company"
+    },
+    {
+      "id": "region:caucasus",
+      "label": "caucasus",
+      "kind": "region"
+    },
+    {
+      "id": "sector:edtech",
+      "label": "Edtech",
+      "kind": "sector"
+    },
+    {
+      "id": "founder:p_6150dde5cddde0d3",
+      "label": "Gökhan Hatipoğlu",
+      "kind": "founder"
+    },
+    {
+      "id": "company:virasoft",
+      "label": "Virasoft",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_4bc1984ddb52441b",
+      "label": "Julius Kopczewski",
+      "kind": "founder"
+    },
+    {
+      "id": "company:readycode-ltd",
+      "label": "ReadyCode Ltd",
+      "kind": "company"
+    },
+    {
+      "id": "region:cee",
+      "label": "cee",
+      "kind": "region"
+    },
+    {
+      "id": "sector:gaming",
+      "label": "Gaming",
+      "kind": "sector"
+    },
+    {
+      "id": "founder:p_68863c1920355945",
+      "label": "Gigi Kurtanidze",
+      "kind": "founder"
+    },
+    {
+      "id": "company:ai-saas-startup",
+      "label": "AI SaaS Startup",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_202f8a86e603c246",
+      "label": "Pavlo L.",
+      "kind": "founder"
+    },
+    {
+      "id": "company:trusty-gaming",
+      "label": "Trusty Gaming",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_642a0624c87dc6ae",
+      "label": "Vusal Ibrahimli",
+      "kind": "founder"
+    },
+    {
+      "id": "company:stealth-ai-startup",
+      "label": "Stealth AI Startup",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_00117e6f80b4c9be",
+      "label": "Tomasz Ostrowski",
+      "kind": "founder"
+    },
+    {
+      "id": "company:andrex-logistics-sp--z-o-o",
+      "label": "Andrex Logistics Sp. z o.o.",
+      "kind": "company"
+    },
+    {
+      "id": "sector:logistics",
+      "label": "Logistics",
+      "kind": "sector"
+    },
+    {
+      "id": "founder:p_4a68ec17619c8f7c",
+      "label": "Önder Çördük",
+      "kind": "founder"
+    },
+    {
+      "id": "company:t-artlog-logistics",
+      "label": "T-ArtLog Logistics",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_55dd591dc383fa2e",
+      "label": "Yusuf C. Mülayim",
+      "kind": "founder"
+    },
+    {
+      "id": "company:dmo",
+      "label": "DMO",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_c255b76c67d8581f",
+      "label": "Batuhan Gökseven",
+      "kind": "founder"
+    },
+    {
+      "id": "company:pikap-lojistik",
+      "label": "Pikap Lojistik",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_96c6d28f48ab7f6a",
+      "label": "Stefan Vogel",
+      "kind": "founder"
+    },
+    {
+      "id": "company:gamers-playground",
+      "label": "Gamers Playground",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_90b1fcbd1f9a748b",
+      "label": "Mert Gür",
+      "kind": "founder"
+    },
+    {
+      "id": "company:loop-games",
+      "label": "Loop Games",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_409157fb4228dd30",
+      "label": "Monica Moldovan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:tenderly-ai",
+      "label": "tenderly.ai",
+      "kind": "company"
+    },
+    {
+      "id": "sector:ai",
+      "label": "AI",
+      "kind": "sector"
+    },
+    {
+      "id": "sector:mobility",
+      "label": "Mobility",
+      "kind": "sector"
+    },
+    {
+      "id": "founder:p_d1f44f37c78fd01e",
+      "label": "Dominykas Čeledinas",
+      "kind": "founder"
+    },
+    {
+      "id": "company:clarus-ai",
+      "label": "Clarus.AI",
+      "kind": "company"
+    },
+    {
+      "id": "sector:insurtech",
+      "label": "Insurtech",
+      "kind": "sector"
+    },
+    {
+      "id": "founder:p_9af32f0133edc6f4",
+      "label": "Arman Mkhitarian",
+      "kind": "founder"
+    },
+    {
+      "id": "company:askme-llc",
+      "label": "AskMe LLC",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_083a6443e71fb68e",
+      "label": "Gera Avagyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:kidguru",
+      "label": "Kidguru",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_bd710e21f5347e10",
+      "label": "Hrachya Yeghiazaryan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:direlli",
+      "label": "Direlli",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_04f4b5c522dd5595",
+      "label": "Hakan KORAL",
+      "kind": "founder"
+    },
+    {
+      "id": "company:mate-logistics",
+      "label": "Mate Logistics",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_629620fb7140dc1c",
+      "label": "Omar Kohistani",
+      "kind": "founder"
+    },
+    {
+      "id": "company:deathly-me",
+      "label": "Deathly.me",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_b484dc8596326faa",
+      "label": "Ciprian Macaveiu",
+      "kind": "founder"
+    },
+    {
+      "id": "company:business-revolution-ai-hub",
+      "label": "Business Revolution AI Hub",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_81504a56bfd2a079",
+      "label": "Aydin Güvenler",
+      "kind": "founder"
+    },
+    {
+      "id": "company:demtaş-logistics",
+      "label": "Demtaş Logistics",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_78a9c90dd11e4969",
+      "label": "Armen Grigoryan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:trustforge-ai",
+      "label": "TrustForge AI",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_2cb70e8184e33450",
+      "label": "Gurhan Surmeli",
+      "kind": "founder"
+    },
+    {
+      "id": "company:turing-global-logistics",
+      "label": "Turing Global Logistics",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_956f7882f1a365c1",
+      "label": "New Global Lojistik",
+      "kind": "founder"
+    },
+    {
+      "id": "company:new-global-logistics",
+      "label": "New Global Logistics",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_61772defaae451da",
+      "label": "Neda Mihai",
+      "kind": "founder"
+    },
+    {
+      "id": "company:infinite-gaming",
+      "label": "Infinite Gaming",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_fc1e3bff59fcb3ca",
+      "label": "Ömer Faruk Bir",
+      "kind": "founder"
+    },
+    {
+      "id": "company:keep-games",
+      "label": "Keep Games",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_597800d74af85b80",
+      "label": "İsa Korkmaz",
+      "kind": "founder"
+    },
+    {
+      "id": "company:navlungo",
+      "label": "Navlungo",
+      "kind": "company"
+    },
+    {
+      "id": "sector:e-commerce",
+      "label": "E-commerce",
+      "kind": "sector"
+    },
+    {
+      "id": "founder:p_371945fc61a37856",
+      "label": "Hüseyin Koyuncuoğlu",
+      "kind": "founder"
+    },
+    {
+      "id": "company:finsaas-ventures",
+      "label": "FinSaaS Ventures",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_15efbab5419c37fa",
+      "label": "Emre Güzer",
+      "kind": "founder"
+    },
+    {
+      "id": "company:lidio",
+      "label": "Lidio",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_d5c73ab56f6633e4",
+      "label": "Samet Avcı",
+      "kind": "founder"
+    },
+    {
+      "id": "company:av-kar-logistics",
+      "label": "Av-Kar Logistics",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_b9908be5357f1a79",
+      "label": "Valentin Găbăruță",
+      "kind": "founder"
+    },
+    {
+      "id": "company:logistics-reformed",
+      "label": "Logistics Reformed",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_0235b6d7e3336dd8",
+      "label": "Areg Gevorgyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:labz-ai",
+      "label": "Labz.ai",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_9d9f5666c16c181d",
+      "label": "Ernest Aharonyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:stealth-technology-startup",
+      "label": "Stealth Technology Startup",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_8cae588070abf574",
+      "label": "Gor Nikoghosyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:phoenix-systems-llc",
+      "label": "Phoenix Systems LLC",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_66efdc361085611b",
+      "label": "Aydin Uysal",
+      "kind": "founder"
+    },
+    {
+      "id": "company:kopilot-eğitim",
+      "label": "Kopilot Eğitim",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_82fdf90561f93a9d",
+      "label": "Valentin Gane",
+      "kind": "founder"
+    },
+    {
+      "id": "company:wynn-gaming-trade",
+      "label": "Wynn Gaming Trade",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_90dcc3a5d0f7b434",
+      "label": "Cankat Tigin Öztemiz",
+      "kind": "founder"
+    },
+    {
+      "id": "company:gamegine",
+      "label": "gamegine",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_1c8a26f0abaf892b",
+      "label": "Mihai Gheza",
+      "kind": "founder"
+    },
+    {
+      "id": "company:machinations-io",
+      "label": "machinations.io",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_7a17621848d94179",
+      "label": "Mustafa Fırtına",
+      "kind": "founder"
+    },
+    {
+      "id": "company:grand-games",
+      "label": "Grand Games",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_54c22aa50ad324fc",
+      "label": "Erkan Gürel",
+      "kind": "founder"
+    },
+    {
+      "id": "company:bigger",
+      "label": "Bigger",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_c737ae2d667c7120",
+      "label": "irakli todua",
+      "kind": "founder"
+    },
+    {
+      "id": "company:artron",
+      "label": "ARTRON",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_c82190919f525baf",
+      "label": "Andrzej Dabrowski",
+      "kind": "founder"
+    },
+    {
+      "id": "company:agentview",
+      "label": "agentview",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_3d02b9e5d481e898",
+      "label": "Aram Khachatryan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:neograph-games-llc",
+      "label": "NeoGraph Games LLC",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_79460182ce8c5b46",
+      "label": "Karen Ayvazyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:ibet-agency",
+      "label": "iBet Agency",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_126f15ce23682a94",
+      "label": "Koray Özyurt",
+      "kind": "founder"
+    },
+    {
+      "id": "company:idl-games",
+      "label": "IDL Games",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_bf02c4300ccae9e7",
+      "label": "Burak Erdem",
+      "kind": "founder"
+    },
+    {
+      "id": "company:pc-gaming-startup",
+      "label": "PC Gaming Startup",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_8e7c42c3542ee915",
+      "label": "Daniel Serban",
+      "kind": "founder"
+    },
+    {
+      "id": "company:lumexo",
+      "label": "Lumexo",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_16024606f52c3e07",
+      "label": "Sinan Akkol",
+      "kind": "founder"
+    },
+    {
+      "id": "company:fiber-games",
+      "label": "Fiber Games",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_5b4a11da217a3e0b",
+      "label": "Alik Sargsyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:ngene",
+      "label": "Ngene",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_82afe8c8688eee21",
+      "label": "Gözde Venedik",
+      "kind": "founder"
+    },
+    {
+      "id": "company:help-steps",
+      "label": "Help Steps",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_b5fb839743dd9b6a",
+      "label": "Artur Kartshikyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:aeda",
+      "label": "Aeda",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_49177da5f210643f",
+      "label": "Ani Yuzbashyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:agrosyunik",
+      "label": "AgroSyunik",
+      "kind": "company"
+    },
+    {
+      "id": "sector:climate",
+      "label": "Climate",
+      "kind": "sector"
+    },
+    {
+      "id": "founder:p_a8c7c977dc9a8230",
+      "label": "Tudor Darie",
+      "kind": "founder"
+    },
+    {
+      "id": "company:fagura",
+      "label": "Fagura",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_184b4ff3c7fa5838",
+      "label": "Andrei Nicolae",
+      "kind": "founder"
+    },
+    {
+      "id": "company:younichoice",
+      "label": "Younichoice",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_5e91cbc343778139",
+      "label": "Alex Govoreanu",
+      "kind": "founder"
+    },
+    {
+      "id": "company:questo",
+      "label": "Questo",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_cc06f74d85624a81",
+      "label": "Anamaria Ungur",
+      "kind": "founder"
+    },
+    {
+      "id": "company:syndical",
+      "label": "Syndical",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_08425818724e205f",
+      "label": "Alex Bardahan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:fastapp-group",
+      "label": "Fastapp Group",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_4b96a22f19116da5",
+      "label": "Yomi Kastro",
+      "kind": "founder"
+    },
+    {
+      "id": "company:inveon",
+      "label": "Inveon",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_5fe92d7de144dde9",
+      "label": "CENK DOLUNAY",
+      "kind": "founder"
+    },
+    {
+      "id": "company:vollmond-logistics",
+      "label": "VOLLMOND LOGISTICS",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_ca41f63268af2deb",
+      "label": "Berker Yenal",
+      "kind": "founder"
+    },
+    {
+      "id": "company:qberx",
+      "label": "QberX",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_7066e9333fc3d16d",
+      "label": "Serge Bou Karam",
+      "kind": "founder"
+    },
+    {
+      "id": "company:decomar-logistic",
+      "label": "Decomar Logistic",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_c9c24a75e61f00c6",
+      "label": "Ayhan Yeniçeri",
+      "kind": "founder"
+    },
+    {
+      "id": "company:fintech-global-teknoloji-ve-yazılım-a-ş",
+      "label": "Fintech Global Teknoloji ve Yazılım A.Ş",
+      "kind": "company"
+    },
+    {
+      "id": "sector:crypto-web3",
+      "label": "Crypto/Web3",
+      "kind": "sector"
+    },
+    {
+      "id": "founder:p_e1883676c6d2931b",
+      "label": "Büşra Koçak",
+      "kind": "founder"
+    },
+    {
+      "id": "company:semender-ai",
+      "label": "Semender AI",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_b6ba9e386ae103da",
+      "label": "Andrey Mozheyko",
+      "kind": "founder"
+    },
+    {
+      "id": "company:itexus",
+      "label": "Itexus",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_e153ab40eebcf729",
+      "label": "Marcel Piekarski",
+      "kind": "founder"
+    },
+    {
+      "id": "company:extentum-ai",
+      "label": "Extentum AI",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_aeaae1fff07bdafe",
+      "label": "Adrian M",
+      "kind": "founder"
+    },
+    {
+      "id": "company:developmently",
+      "label": "Developmently",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_228dc09b88232541",
+      "label": "Cosmin Dumitrache",
+      "kind": "founder"
+    },
+    {
+      "id": "company:medic-chat",
+      "label": "Medic Chat",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_1b2ec57873df1401",
+      "label": "Hüseyin Mert",
+      "kind": "founder"
+    },
+    {
+      "id": "company:monopayments",
+      "label": "MonoPayments",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_8bf06b3b0fe02684",
+      "label": "Irina Ghazaryan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:doctor-yan",
+      "label": "Doctor Yan",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_0d87ac5685594059",
+      "label": "Timur Tül",
+      "kind": "founder"
+    },
+    {
+      "id": "company:sesvia",
+      "label": "Sesvia",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_4bae560657782f89",
+      "label": "Alexander Yesayan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:firebird-ai",
+      "label": "Firebird.ai",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_b0c44824649cd514",
+      "label": "Mariam Meyroyan Kachachyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:eco-step-green-energy-solutions",
+      "label": "Eco Step Green Energy Solutions",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_f0ef1d031b6afa72",
+      "label": "Ionel Popa",
+      "kind": "founder"
+    },
+    {
+      "id": "company:genius-logistic",
+      "label": "Genius Logistic",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_b6562d015cdb07f0",
+      "label": "Denis Madroane",
+      "kind": "founder"
+    },
+    {
+      "id": "company:home-designs-ai",
+      "label": "Home Designs AI",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_4a0165fa95185bdb",
+      "label": "Daniel T.",
+      "kind": "founder"
+    },
+    {
+      "id": "company:wam",
+      "label": "WAM",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_761eb012654143bf",
+      "label": "Okan Gokulu",
+      "kind": "founder"
+    },
+    {
+      "id": "company:osf-logistics",
+      "label": "OSF Logistics",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_3c633df025c4d636",
+      "label": "Nemanja Divjak Gamescom",
+      "kind": "founder"
+    },
+    {
+      "id": "company:tummy-games",
+      "label": "Tummy Games",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_c38a8982059f3dd3",
+      "label": "Dumitru Condrea",
+      "kind": "founder"
+    },
+    {
+      "id": "company:novafin",
+      "label": "NOVAFIN",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_c5f1178f218b06ee",
+      "label": "Hasan Eray KUTLU",
+      "kind": "founder"
+    },
+    {
+      "id": "company:brewshot-ai",
+      "label": "BrewShot AI",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_f9fd5a598dc38199",
+      "label": "Esra G.",
+      "kind": "founder"
+    },
+    {
+      "id": "company:codevia",
+      "label": "Codevia",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_aa89f9c52077e5a8",
+      "label": "Mary Zaitseva",
+      "kind": "founder"
+    },
+    {
+      "id": "company:friendsfirst",
+      "label": "FriendsFirst",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_9f8c010fe00efad6",
+      "label": "Samvel Aghajanyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:armenian-game-changers",
+      "label": "Armenian Game Changers",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_4cc540068e19f1dd",
+      "label": "Sadık Akgün",
+      "kind": "founder"
+    },
+    {
+      "id": "company:smartai",
+      "label": "SmartAi",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_fd661e732e2f119d",
+      "label": "Eylül Sena Yetkin",
+      "kind": "founder"
+    },
+    {
+      "id": "company:moniteye",
+      "label": "MonitEye",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_c01bfc7a65e183ee",
+      "label": "Umut Kök",
+      "kind": "founder"
+    },
+    {
+      "id": "company:getir",
+      "label": "Getir",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_4671953c846dde61",
+      "label": "Hamza Özköse",
+      "kind": "founder"
+    },
+    {
+      "id": "company:en-kıymetlim",
+      "label": "En Kıymetlim",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_4b97e0693d09302d",
+      "label": "İlgi Yılmaz",
+      "kind": "founder"
+    },
+    {
+      "id": "company:meslek-atölyesi",
+      "label": "Meslek Atölyesi",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_34a117ff72a3ecfa",
+      "label": "Mărioara Mihali",
+      "kind": "founder"
+    },
+    {
+      "id": "company:rhythm-touch",
+      "label": "Rhythm Touch",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_f5dfd277ed79144e",
+      "label": "Semen Pavlenko",
+      "kind": "founder"
+    },
+    {
+      "id": "company:slvo-agency",
+      "label": "SLVO Agency",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_0fc63a2b6c8cc8b6",
+      "label": "Marty Meydan",
+      "kind": "founder"
+    },
+    {
+      "id": "founder:p_834c9016806e93d1",
+      "label": "Alexandru Petru",
+      "kind": "founder"
+    },
+    {
+      "id": "company:vying-technologies-ou",
+      "label": "Vying Technologies OU",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_bd0098e8403a2add",
+      "label": "İSMAİL ÇİFTÇİ",
+      "kind": "founder"
+    },
+    {
+      "id": "company:imc-global",
+      "label": "IMC Global",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_33f5fc3e5644656b",
+      "label": "Gökhan Ceylan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:risk-yok",
+      "label": "RiSK YOK",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_24513f68a1a28079",
+      "label": "Garo Khorozian",
+      "kind": "founder"
+    },
+    {
+      "id": "company:khorozyan-intl-llc",
+      "label": "Khorozyan Intl LLC",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_c982ef18ede6de7f",
+      "label": "Levon Galstyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:global-am",
+      "label": "Global AM",
+      "kind": "company"
+    },
+    {
+      "id": "founder:p_5b4adfb93b3db55b",
+      "label": "Liana Babujyan",
+      "kind": "founder"
+    },
+    {
+      "id": "company:innovate",
+      "label": "Innovate",
+      "kind": "company"
+    }
+  ],
+  "edges": [
+    {
+      "source": "founder:p_cf5d0b4cb0c6294e",
+      "target": "company:lisa-ai",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_cf5d0b4cb0c6294e",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_cf5d0b4cb0c6294e",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_5b69bfd692b3a98e",
+      "target": "company:lucida-ai",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_5b69bfd692b3a98e",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_5b69bfd692b3a98e",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_9b424537c7117df9",
+      "target": "company:peopleoma",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_9b424537c7117df9",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_9b424537c7117df9",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_9b424537c7117df9",
+      "target": "sector:saas",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_07d24ea98e0c9630",
+      "target": "company:stealth-fintech-startup",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_07d24ea98e0c9630",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_07d24ea98e0c9630",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_07d24ea98e0c9630",
+      "target": "sector:cybersecurity",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_07d24ea98e0c9630",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_07d24ea98e0c9630",
+      "target": "sector:healthtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_aa354ad5e1099ca3",
+      "target": "company:layerswap",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_aa354ad5e1099ca3",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_aa354ad5e1099ca3",
+      "target": "sector:edtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_aa354ad5e1099ca3",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_6150dde5cddde0d3",
+      "target": "company:virasoft",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_6150dde5cddde0d3",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_6150dde5cddde0d3",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_4bc1984ddb52441b",
+      "target": "company:readycode-ltd",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_4bc1984ddb52441b",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_4bc1984ddb52441b",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_68863c1920355945",
+      "target": "company:ai-saas-startup",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_68863c1920355945",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_68863c1920355945",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_68863c1920355945",
+      "target": "sector:saas",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_202f8a86e603c246",
+      "target": "company:trusty-gaming",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_202f8a86e603c246",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_202f8a86e603c246",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_642a0624c87dc6ae",
+      "target": "company:stealth-ai-startup",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_642a0624c87dc6ae",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_642a0624c87dc6ae",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_00117e6f80b4c9be",
+      "target": "company:andrex-logistics-sp--z-o-o",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_00117e6f80b4c9be",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_00117e6f80b4c9be",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_4a68ec17619c8f7c",
+      "target": "company:t-artlog-logistics",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_4a68ec17619c8f7c",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_4a68ec17619c8f7c",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_55dd591dc383fa2e",
+      "target": "company:dmo",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_55dd591dc383fa2e",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_55dd591dc383fa2e",
+      "target": "sector:healthtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_c255b76c67d8581f",
+      "target": "company:pikap-lojistik",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_c255b76c67d8581f",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_c255b76c67d8581f",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_96c6d28f48ab7f6a",
+      "target": "company:gamers-playground",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_96c6d28f48ab7f6a",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_96c6d28f48ab7f6a",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_96c6d28f48ab7f6a",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_90b1fcbd1f9a748b",
+      "target": "company:loop-games",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_90b1fcbd1f9a748b",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_90b1fcbd1f9a748b",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_409157fb4228dd30",
+      "target": "company:tenderly-ai",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_409157fb4228dd30",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_409157fb4228dd30",
+      "target": "sector:ai",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_409157fb4228dd30",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_409157fb4228dd30",
+      "target": "sector:healthtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_409157fb4228dd30",
+      "target": "sector:mobility",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_409157fb4228dd30",
+      "target": "sector:saas",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_d1f44f37c78fd01e",
+      "target": "company:clarus-ai",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_d1f44f37c78fd01e",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_d1f44f37c78fd01e",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_d1f44f37c78fd01e",
+      "target": "sector:edtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_d1f44f37c78fd01e",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_d1f44f37c78fd01e",
+      "target": "sector:insurtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_9af32f0133edc6f4",
+      "target": "company:askme-llc",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_9af32f0133edc6f4",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_9af32f0133edc6f4",
+      "target": "sector:edtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_083a6443e71fb68e",
+      "target": "company:kidguru",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_083a6443e71fb68e",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_083a6443e71fb68e",
+      "target": "sector:edtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_bd710e21f5347e10",
+      "target": "company:direlli",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_bd710e21f5347e10",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_bd710e21f5347e10",
+      "target": "sector:edtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_04f4b5c522dd5595",
+      "target": "company:mate-logistics",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_04f4b5c522dd5595",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_04f4b5c522dd5595",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_629620fb7140dc1c",
+      "target": "company:deathly-me",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_629620fb7140dc1c",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_629620fb7140dc1c",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_b484dc8596326faa",
+      "target": "company:business-revolution-ai-hub",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_b484dc8596326faa",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_b484dc8596326faa",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_81504a56bfd2a079",
+      "target": "company:demtaş-logistics",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_81504a56bfd2a079",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_81504a56bfd2a079",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_78a9c90dd11e4969",
+      "target": "company:trustforge-ai",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_78a9c90dd11e4969",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_78a9c90dd11e4969",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_2cb70e8184e33450",
+      "target": "company:turing-global-logistics",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_2cb70e8184e33450",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_2cb70e8184e33450",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_956f7882f1a365c1",
+      "target": "company:new-global-logistics",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_956f7882f1a365c1",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_956f7882f1a365c1",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_956f7882f1a365c1",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_61772defaae451da",
+      "target": "company:infinite-gaming",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_61772defaae451da",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_61772defaae451da",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_fc1e3bff59fcb3ca",
+      "target": "company:keep-games",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_fc1e3bff59fcb3ca",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_fc1e3bff59fcb3ca",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_597800d74af85b80",
+      "target": "company:navlungo",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_597800d74af85b80",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_597800d74af85b80",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_597800d74af85b80",
+      "target": "sector:e-commerce",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_597800d74af85b80",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_371945fc61a37856",
+      "target": "company:finsaas-ventures",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_371945fc61a37856",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_371945fc61a37856",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_15efbab5419c37fa",
+      "target": "company:lidio",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_15efbab5419c37fa",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_15efbab5419c37fa",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_d5c73ab56f6633e4",
+      "target": "company:av-kar-logistics",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_d5c73ab56f6633e4",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_d5c73ab56f6633e4",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_b9908be5357f1a79",
+      "target": "company:logistics-reformed",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_b9908be5357f1a79",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_b9908be5357f1a79",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_0235b6d7e3336dd8",
+      "target": "company:labz-ai",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_0235b6d7e3336dd8",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_0235b6d7e3336dd8",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_0235b6d7e3336dd8",
+      "target": "sector:healthtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_9d9f5666c16c181d",
+      "target": "company:stealth-technology-startup",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_9d9f5666c16c181d",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_9d9f5666c16c181d",
+      "target": "sector:edtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_8cae588070abf574",
+      "target": "company:phoenix-systems-llc",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_8cae588070abf574",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_8cae588070abf574",
+      "target": "sector:e-commerce",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_66efdc361085611b",
+      "target": "company:kopilot-eğitim",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_66efdc361085611b",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_66efdc361085611b",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_66efdc361085611b",
+      "target": "sector:edtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_82fdf90561f93a9d",
+      "target": "company:wynn-gaming-trade",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_82fdf90561f93a9d",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_82fdf90561f93a9d",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_90dcc3a5d0f7b434",
+      "target": "company:gamegine",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_90dcc3a5d0f7b434",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_90dcc3a5d0f7b434",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_1c8a26f0abaf892b",
+      "target": "company:machinations-io",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_1c8a26f0abaf892b",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_1c8a26f0abaf892b",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_1c8a26f0abaf892b",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_7a17621848d94179",
+      "target": "company:grand-games",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_7a17621848d94179",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_7a17621848d94179",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_54c22aa50ad324fc",
+      "target": "company:bigger",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_54c22aa50ad324fc",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_54c22aa50ad324fc",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_c737ae2d667c7120",
+      "target": "company:artron",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_c737ae2d667c7120",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_c737ae2d667c7120",
+      "target": "sector:edtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_c82190919f525baf",
+      "target": "company:agentview",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_c82190919f525baf",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_c82190919f525baf",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_3d02b9e5d481e898",
+      "target": "company:neograph-games-llc",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_3d02b9e5d481e898",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_3d02b9e5d481e898",
+      "target": "sector:edtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_3d02b9e5d481e898",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_79460182ce8c5b46",
+      "target": "company:ibet-agency",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_79460182ce8c5b46",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_79460182ce8c5b46",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_126f15ce23682a94",
+      "target": "company:idl-games",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_126f15ce23682a94",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_126f15ce23682a94",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_bf02c4300ccae9e7",
+      "target": "company:pc-gaming-startup",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_bf02c4300ccae9e7",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_bf02c4300ccae9e7",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_8e7c42c3542ee915",
+      "target": "company:lumexo",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_8e7c42c3542ee915",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_8e7c42c3542ee915",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_16024606f52c3e07",
+      "target": "company:fiber-games",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_16024606f52c3e07",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_16024606f52c3e07",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_5b4a11da217a3e0b",
+      "target": "company:ngene",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_5b4a11da217a3e0b",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_5b4a11da217a3e0b",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_82afe8c8688eee21",
+      "target": "company:help-steps",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_82afe8c8688eee21",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_82afe8c8688eee21",
+      "target": "sector:healthtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_b5fb839743dd9b6a",
+      "target": "company:aeda",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_b5fb839743dd9b6a",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_b5fb839743dd9b6a",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_49177da5f210643f",
+      "target": "company:agrosyunik",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_49177da5f210643f",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_49177da5f210643f",
+      "target": "sector:climate",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_a8c7c977dc9a8230",
+      "target": "company:fagura",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_a8c7c977dc9a8230",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_a8c7c977dc9a8230",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_184b4ff3c7fa5838",
+      "target": "company:younichoice",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_184b4ff3c7fa5838",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_184b4ff3c7fa5838",
+      "target": "sector:edtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_5e91cbc343778139",
+      "target": "company:questo",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_5e91cbc343778139",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_5e91cbc343778139",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_cc06f74d85624a81",
+      "target": "company:syndical",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_cc06f74d85624a81",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_cc06f74d85624a81",
+      "target": "sector:healthtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_08425818724e205f",
+      "target": "company:fastapp-group",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_08425818724e205f",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_08425818724e205f",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_08425818724e205f",
+      "target": "sector:saas",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_4b96a22f19116da5",
+      "target": "company:inveon",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_4b96a22f19116da5",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_4b96a22f19116da5",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_5fe92d7de144dde9",
+      "target": "company:vollmond-logistics",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_5fe92d7de144dde9",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_5fe92d7de144dde9",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_ca41f63268af2deb",
+      "target": "company:qberx",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_ca41f63268af2deb",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_ca41f63268af2deb",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_ca41f63268af2deb",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_7066e9333fc3d16d",
+      "target": "company:decomar-logistic",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_7066e9333fc3d16d",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_7066e9333fc3d16d",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_c9c24a75e61f00c6",
+      "target": "company:fintech-global-teknoloji-ve-yazılım-a-ş",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_c9c24a75e61f00c6",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_c9c24a75e61f00c6",
+      "target": "sector:crypto-web3",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_c9c24a75e61f00c6",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_e1883676c6d2931b",
+      "target": "company:semender-ai",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_e1883676c6d2931b",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_e1883676c6d2931b",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_b6ba9e386ae103da",
+      "target": "company:itexus",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_b6ba9e386ae103da",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_b6ba9e386ae103da",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_b6ba9e386ae103da",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_e153ab40eebcf729",
+      "target": "company:extentum-ai",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_e153ab40eebcf729",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_e153ab40eebcf729",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_aeaae1fff07bdafe",
+      "target": "company:developmently",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_aeaae1fff07bdafe",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_aeaae1fff07bdafe",
+      "target": "sector:saas",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_228dc09b88232541",
+      "target": "company:medic-chat",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_228dc09b88232541",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_228dc09b88232541",
+      "target": "sector:healthtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_1b2ec57873df1401",
+      "target": "company:monopayments",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_1b2ec57873df1401",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_1b2ec57873df1401",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_1b2ec57873df1401",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_8bf06b3b0fe02684",
+      "target": "company:doctor-yan",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_8bf06b3b0fe02684",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_8bf06b3b0fe02684",
+      "target": "sector:healthtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_0d87ac5685594059",
+      "target": "company:sesvia",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_0d87ac5685594059",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_0d87ac5685594059",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_0d87ac5685594059",
+      "target": "sector:crypto-web3",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_4bae560657782f89",
+      "target": "company:firebird-ai",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_4bae560657782f89",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_4bae560657782f89",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_b0c44824649cd514",
+      "target": "company:eco-step-green-energy-solutions",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_b0c44824649cd514",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_b0c44824649cd514",
+      "target": "sector:climate",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_f0ef1d031b6afa72",
+      "target": "company:genius-logistic",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_f0ef1d031b6afa72",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_f0ef1d031b6afa72",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_b6562d015cdb07f0",
+      "target": "company:home-designs-ai",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_b6562d015cdb07f0",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_b6562d015cdb07f0",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_b6562d015cdb07f0",
+      "target": "sector:saas",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_4a0165fa95185bdb",
+      "target": "company:wam",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_4a0165fa95185bdb",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_4a0165fa95185bdb",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_4a0165fa95185bdb",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_761eb012654143bf",
+      "target": "company:osf-logistics",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_761eb012654143bf",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_761eb012654143bf",
+      "target": "sector:logistics",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_3c633df025c4d636",
+      "target": "company:tummy-games",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_3c633df025c4d636",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_3c633df025c4d636",
+      "target": "sector:gaming",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_c38a8982059f3dd3",
+      "target": "company:novafin",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_c38a8982059f3dd3",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_c38a8982059f3dd3",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_c38a8982059f3dd3",
+      "target": "sector:saas",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_c5f1178f218b06ee",
+      "target": "company:brewshot-ai",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_c5f1178f218b06ee",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_c5f1178f218b06ee",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_c5f1178f218b06ee",
+      "target": "sector:saas",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_f9fd5a598dc38199",
+      "target": "company:codevia",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_f9fd5a598dc38199",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_f9fd5a598dc38199",
+      "target": "sector:ai-ml",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_f9fd5a598dc38199",
+      "target": "sector:edtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_f9fd5a598dc38199",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_f9fd5a598dc38199",
+      "target": "sector:healthtech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_aa89f9c52077e5a8",
+      "target": "company:friendsfirst",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_aa89f9c52077e5a8",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_9f8c010fe00efad6",
+      "target": "company:armenian-game-changers",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_9f8c010fe00efad6",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_4cc540068e19f1dd",
+      "target": "company:smartai",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_4cc540068e19f1dd",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_fd661e732e2f119d",
+      "target": "company:moniteye",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_fd661e732e2f119d",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_c01bfc7a65e183ee",
+      "target": "company:getir",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_c01bfc7a65e183ee",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_4671953c846dde61",
+      "target": "company:en-kıymetlim",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_4671953c846dde61",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_4b97e0693d09302d",
+      "target": "company:meslek-atölyesi",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_4b97e0693d09302d",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_34a117ff72a3ecfa",
+      "target": "company:rhythm-touch",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_34a117ff72a3ecfa",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_f5dfd277ed79144e",
+      "target": "company:slvo-agency",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_f5dfd277ed79144e",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_0fc63a2b6c8cc8b6",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_0fc63a2b6c8cc8b6",
+      "target": "sector:fintech",
+      "rel": "IN_SECTOR"
+    },
+    {
+      "source": "founder:p_834c9016806e93d1",
+      "target": "company:vying-technologies-ou",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_834c9016806e93d1",
+      "target": "region:cee",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_bd0098e8403a2add",
+      "target": "company:imc-global",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_bd0098e8403a2add",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_33f5fc3e5644656b",
+      "target": "company:risk-yok",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_33f5fc3e5644656b",
+      "target": "region:turkiye",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_24513f68a1a28079",
+      "target": "company:khorozyan-intl-llc",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_24513f68a1a28079",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_c982ef18ede6de7f",
+      "target": "company:global-am",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_c982ef18ede6de7f",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    },
+    {
+      "source": "founder:p_5b4adfb93b3db55b",
+      "target": "company:innovate",
+      "rel": "FOUNDED"
+    },
+    {
+      "source": "founder:p_5b4adfb93b3db55b",
+      "target": "region:caucasus",
+      "rel": "IN_REGION"
+    }
+  ],
+  "clusters": [
+    {
+      "sector": "AI/ML",
+      "size": 33,
+      "founders": [
+        "founder:p_cf5d0b4cb0c6294e",
+        "founder:p_5b69bfd692b3a98e",
+        "founder:p_9b424537c7117df9",
+        "founder:p_07d24ea98e0c9630",
+        "founder:p_6150dde5cddde0d3",
+        "founder:p_68863c1920355945",
+        "founder:p_642a0624c87dc6ae",
+        "founder:p_96c6d28f48ab7f6a",
+        "founder:p_409157fb4228dd30",
+        "founder:p_d1f44f37c78fd01e",
+        "founder:p_629620fb7140dc1c",
+        "founder:p_b484dc8596326faa",
+        "founder:p_78a9c90dd11e4969",
+        "founder:p_597800d74af85b80",
+        "founder:p_0235b6d7e3336dd8",
+        "founder:p_66efdc361085611b",
+        "founder:p_1c8a26f0abaf892b",
+        "founder:p_c82190919f525baf",
+        "founder:p_5b4a11da217a3e0b",
+        "founder:p_5e91cbc343778139",
+        "founder:p_08425818724e205f",
+        "founder:p_4b96a22f19116da5",
+        "founder:p_ca41f63268af2deb",
+        "founder:p_e1883676c6d2931b",
+        "founder:p_b6ba9e386ae103da",
+        "founder:p_e153ab40eebcf729",
+        "founder:p_1b2ec57873df1401",
+        "founder:p_0d87ac5685594059",
+        "founder:p_4bae560657782f89",
+        "founder:p_b6562d015cdb07f0",
+        "founder:p_4a0165fa95185bdb",
+        "founder:p_c5f1178f218b06ee",
+        "founder:p_f9fd5a598dc38199"
+      ]
+    },
+    {
+      "sector": "Gaming",
+      "size": 19,
+      "founders": [
+        "founder:p_4bc1984ddb52441b",
+        "founder:p_202f8a86e603c246",
+        "founder:p_96c6d28f48ab7f6a",
+        "founder:p_90b1fcbd1f9a748b",
+        "founder:p_61772defaae451da",
+        "founder:p_fc1e3bff59fcb3ca",
+        "founder:p_82fdf90561f93a9d",
+        "founder:p_90dcc3a5d0f7b434",
+        "founder:p_1c8a26f0abaf892b",
+        "founder:p_7a17621848d94179",
+        "founder:p_54c22aa50ad324fc",
+        "founder:p_3d02b9e5d481e898",
+        "founder:p_79460182ce8c5b46",
+        "founder:p_126f15ce23682a94",
+        "founder:p_bf02c4300ccae9e7",
+        "founder:p_8e7c42c3542ee915",
+        "founder:p_16024606f52c3e07",
+        "founder:p_4a0165fa95185bdb",
+        "founder:p_3c633df025c4d636"
+      ]
+    },
+    {
+      "sector": "Fintech",
+      "size": 15,
+      "founders": [
+        "founder:p_07d24ea98e0c9630",
+        "founder:p_aa354ad5e1099ca3",
+        "founder:p_d1f44f37c78fd01e",
+        "founder:p_956f7882f1a365c1",
+        "founder:p_371945fc61a37856",
+        "founder:p_15efbab5419c37fa",
+        "founder:p_b5fb839743dd9b6a",
+        "founder:p_a8c7c977dc9a8230",
+        "founder:p_ca41f63268af2deb",
+        "founder:p_c9c24a75e61f00c6",
+        "founder:p_b6ba9e386ae103da",
+        "founder:p_1b2ec57873df1401",
+        "founder:p_c38a8982059f3dd3",
+        "founder:p_f9fd5a598dc38199",
+        "founder:p_0fc63a2b6c8cc8b6"
+      ]
+    },
+    {
+      "sector": "Logistics",
+      "size": 14,
+      "founders": [
+        "founder:p_00117e6f80b4c9be",
+        "founder:p_4a68ec17619c8f7c",
+        "founder:p_c255b76c67d8581f",
+        "founder:p_04f4b5c522dd5595",
+        "founder:p_81504a56bfd2a079",
+        "founder:p_2cb70e8184e33450",
+        "founder:p_956f7882f1a365c1",
+        "founder:p_597800d74af85b80",
+        "founder:p_d5c73ab56f6633e4",
+        "founder:p_b9908be5357f1a79",
+        "founder:p_5fe92d7de144dde9",
+        "founder:p_7066e9333fc3d16d",
+        "founder:p_f0ef1d031b6afa72",
+        "founder:p_761eb012654143bf"
+      ]
+    },
+    {
+      "sector": "Edtech",
+      "size": 11,
+      "founders": [
+        "founder:p_aa354ad5e1099ca3",
+        "founder:p_d1f44f37c78fd01e",
+        "founder:p_9af32f0133edc6f4",
+        "founder:p_083a6443e71fb68e",
+        "founder:p_bd710e21f5347e10",
+        "founder:p_9d9f5666c16c181d",
+        "founder:p_66efdc361085611b",
+        "founder:p_c737ae2d667c7120",
+        "founder:p_3d02b9e5d481e898",
+        "founder:p_184b4ff3c7fa5838",
+        "founder:p_f9fd5a598dc38199"
+      ]
+    },
+    {
+      "sector": "Healthtech",
+      "size": 9,
+      "founders": [
+        "founder:p_07d24ea98e0c9630",
+        "founder:p_55dd591dc383fa2e",
+        "founder:p_409157fb4228dd30",
+        "founder:p_0235b6d7e3336dd8",
+        "founder:p_82afe8c8688eee21",
+        "founder:p_cc06f74d85624a81",
+        "founder:p_228dc09b88232541",
+        "founder:p_8bf06b3b0fe02684",
+        "founder:p_f9fd5a598dc38199"
+      ]
+    },
+    {
+      "sector": "SaaS",
+      "size": 8,
+      "founders": [
+        "founder:p_9b424537c7117df9",
+        "founder:p_68863c1920355945",
+        "founder:p_409157fb4228dd30",
+        "founder:p_08425818724e205f",
+        "founder:p_aeaae1fff07bdafe",
+        "founder:p_b6562d015cdb07f0",
+        "founder:p_c38a8982059f3dd3",
+        "founder:p_c5f1178f218b06ee"
+      ]
+    },
+    {
+      "sector": "E-commerce",
+      "size": 2,
+      "founders": [
+        "founder:p_597800d74af85b80",
+        "founder:p_8cae588070abf574"
+      ]
+    },
+    {
+      "sector": "Climate",
+      "size": 2,
+      "founders": [
+        "founder:p_49177da5f210643f",
+        "founder:p_b0c44824649cd514"
+      ]
+    },
+    {
+      "sector": "Crypto/Web3",
+      "size": 2,
+      "founders": [
+        "founder:p_c9c24a75e61f00c6",
+        "founder:p_0d87ac5685594059"
+      ]
+    }
+  ],
+  "stats": {
+    "founders": 100,
+    "companies": 99,
+    "sectors": 14,
+    "regions": 3,
+    "edges": 318,
+    "top_sectors": [
+      {
+        "sector": "AI/ML",
+        "founders": 33
+      },
+      {
+        "sector": "Gaming",
+        "founders": 19
+      },
+      {
+        "sector": "Fintech",
+        "founders": 15
+      },
+      {
+        "sector": "Logistics",
+        "founders": 14
+      },
+      {
+        "sector": "Edtech",
+        "founders": 11
+      }
+    ]
+  }
+}

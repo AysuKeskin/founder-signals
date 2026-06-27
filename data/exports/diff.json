@@ -1,0 +1,501 @@
+{
+  "baseline": false,
+  "current_count": 100,
+  "previous_count": 100,
+  "new": [
+    {
+      "id": "p_5b69bfd692b3a98e",
+      "name": "Mustafa Girgin",
+      "url": "https://tr.linkedin.com/in/mustafagirgin",
+      "region": "turkiye",
+      "rank_score": 0.8499
+    },
+    {
+      "id": "p_aa354ad5e1099ca3",
+      "name": "Babken Gevorgyan",
+      "url": "https://am.linkedin.com/in/babgev",
+      "region": "caucasus",
+      "rank_score": 0.8291
+    },
+    {
+      "id": "p_d1f44f37c78fd01e",
+      "name": "Dominykas Čeledinas",
+      "url": "https://lt.linkedin.com/in/dominykas-čeledinas-7401432",
+      "region": "cee",
+      "rank_score": 0.7977
+    },
+    {
+      "id": "p_4a68ec17619c8f7c",
+      "name": "Önder Çördük",
+      "url": "https://tr.linkedin.com/in/ondercorduk",
+      "region": "turkiye",
+      "rank_score": 0.7977
+    },
+    {
+      "id": "p_597800d74af85b80",
+      "name": "İsa Korkmaz",
+      "url": "https://tr.linkedin.com/in/isa-korkmaz",
+      "region": "turkiye",
+      "rank_score": 0.797
+    },
+    {
+      "id": "p_371945fc61a37856",
+      "name": "Hüseyin Koyuncuoğlu",
+      "url": "https://tr.linkedin.com/in/hüseyin-koyuncuoğlu-bab50b102",
+      "region": "turkiye",
+      "rank_score": 0.797
+    },
+    {
+      "id": "p_15efbab5419c37fa",
+      "name": "Emre Güzer",
+      "url": "https://tr.linkedin.com/in/emreguzer",
+      "region": "turkiye",
+      "rank_score": 0.797
+    },
+    {
+      "id": "p_81504a56bfd2a079",
+      "name": "Aydin Güvenler",
+      "url": "https://tr.linkedin.com/in/aydin-güvenler-367a0668",
+      "region": "turkiye",
+      "rank_score": 0.797
+    },
+    {
+      "id": "p_c255b76c67d8581f",
+      "name": "Batuhan Gökseven",
+      "url": "https://tr.linkedin.com/in/batuhan-gökseven-6939b07a",
+      "region": "turkiye",
+      "rank_score": 0.797
+    },
+    {
+      "id": "p_d5c73ab56f6633e4",
+      "name": "Samet Avcı",
+      "url": "https://tr.linkedin.com/in/samet-avcı",
+      "region": "turkiye",
+      "rank_score": 0.797
+    },
+    {
+      "id": "p_2cb70e8184e33450",
+      "name": "Gurhan Surmeli",
+      "url": "https://tr.linkedin.com/in/gurhan-surmeli-985b3852",
+      "region": "turkiye",
+      "rank_score": 0.797
+    },
+    {
+      "id": "p_55dd591dc383fa2e",
+      "name": "Yusuf C. Mülayim",
+      "url": "https://tr.linkedin.com/in/yusuf-c-mülayim-74667a7b",
+      "region": "turkiye",
+      "rank_score": 0.7863
+    },
+    {
+      "id": "p_a8c7c977dc9a8230",
+      "name": "Tudor Darie",
+      "url": "https://ro.linkedin.com/in/tudordarie",
+      "region": "cee",
+      "rank_score": 0.7722
+    },
+    {
+      "id": "p_5e91cbc343778139",
+      "name": "Alex Govoreanu",
+      "url": "https://ro.linkedin.com/in/alexandrugovoreanu",
+      "region": "cee",
+      "rank_score": 0.7722
+    },
+    {
+      "id": "p_08425818724e205f",
+      "name": "Alex Bardahan",
+      "url": "https://ro.linkedin.com/in/alexbardahan",
+      "region": "cee",
+      "rank_score": 0.7722
+    },
+    {
+      "id": "p_4b96a22f19116da5",
+      "name": "Yomi Kastro",
+      "url": "https://tr.linkedin.com/in/yomikastro",
+      "region": "turkiye",
+      "rank_score": 0.7722
+    },
+    {
+      "id": "p_5fe92d7de144dde9",
+      "name": "CENK DOLUNAY",
+      "url": "https://tr.linkedin.com/in/cenk-dolunay-a30b6426",
+      "region": "turkiye",
+      "rank_score": 0.7722
+    },
+    {
+      "id": "p_ca41f63268af2deb",
+      "name": "Berker Yenal",
+      "url": "https://tr.linkedin.com/in/berkeryenal",
+      "region": "turkiye",
+      "rank_score": 0.7722
+    },
+    {
+      "id": "p_e1883676c6d2931b",
+      "name": "Büşra Koçak",
+      "url": "https://tr.linkedin.com/in/akocakbusra",
+      "region": "turkiye",
+      "rank_score": 0.7722
+    },
+    {
+      "id": "p_1b2ec57873df1401",
+      "name": "Hüseyin Mert",
+      "url": "https://tr.linkedin.com/in/hmert",
+      "region": "turkiye",
+      "rank_score": 0.7722
+    },
+    {
+      "id": "p_c5f1178f218b06ee",
+      "name": "Hasan Eray KUTLU",
+      "url": "https://tr.linkedin.com/in/hasaneraykutlu",
+      "region": "turkiye",
+      "rank_score": 0.7722
+    },
+    {
+      "id": "p_0d87ac5685594059",
+      "name": "Timur Tül",
+      "url": "https://tr.linkedin.com/in/timurtul",
+      "region": "turkiye",
+      "rank_score": 0.7722
+    },
+    {
+      "id": "p_761eb012654143bf",
+      "name": "Okan Gokulu",
+      "url": "https://tr.linkedin.com/in/okan-gokulu-a36aa2260",
+      "region": "turkiye",
+      "rank_score": 0.7647
+    },
+    {
+      "id": "p_7066e9333fc3d16d",
+      "name": "Serge Bou Karam",
+      "url": "https://ro.linkedin.com/in/serge-bou-karam-67295615",
+      "region": "cee",
+      "rank_score": 0.7606
+    },
+    {
+      "id": "p_aa89f9c52077e5a8",
+      "name": "Mary Zaitseva",
+      "url": "https://am.linkedin.com/in/mary-zaitseva",
+      "region": "caucasus",
+      "rank_score": 0.6773
+    },
+    {
+      "id": "p_9d9f5666c16c181d",
+      "name": "Ernest Aharonyan",
+      "url": "https://am.linkedin.com/in/ernest-aharonyan",
+      "region": "caucasus",
+      "rank_score": 0.6472
+    },
+    {
+      "id": "p_4671953c846dde61",
+      "name": "Hamza Özköse",
+      "url": "https://tr.linkedin.com/in/hamza-özköse-960007190",
+      "region": "turkiye",
+      "rank_score": 0.638
+    },
+    {
+      "id": "p_4b97e0693d09302d",
+      "name": "İlgi Yılmaz",
+      "url": "https://tr.linkedin.com/in/ilgi-yılmaz-50a053191",
+      "region": "turkiye",
+      "rank_score": 0.638
+    },
+    {
+      "id": "p_0fc63a2b6c8cc8b6",
+      "name": "Marty Meydan",
+      "url": "https://tr.linkedin.com/in/martymeydan",
+      "region": "turkiye",
+      "rank_score": 0.6347
+    },
+    {
+      "id": "p_34a117ff72a3ecfa",
+      "name": "Mărioara Mihali",
+      "url": "https://ro.linkedin.com/in/mărioara-mihali",
+      "region": "cee",
+      "rank_score": 0.6338
+    },
+    {
+      "id": "p_956f7882f1a365c1",
+      "name": "New Global Lojistik",
+      "url": "https://tr.linkedin.com/in/new-global-lojistik-05362a2a7",
+      "region": "turkiye",
+      "rank_score": 0.6314
+    },
+    {
+      "id": "p_834c9016806e93d1",
+      "name": "Alexandru Petru",
+      "url": "https://ee.linkedin.com/in/alexandru-petru-41a19347",
+      "region": "cee",
+      "rank_score": 0.6263
+    },
+    {
+      "id": "p_8e7c42c3542ee915",
+      "name": "Daniel Serban",
+      "url": "https://ro.linkedin.com/in/daniel-serban-693b66212",
+      "region": "cee",
+      "rank_score": 0.6127
+    },
+    {
+      "id": "p_bd0098e8403a2add",
+      "name": "İSMAİL ÇİFTÇİ",
+      "url": "https://tr.linkedin.com/in/ismail-çiftçi-23b467360",
+      "region": "turkiye",
+      "rank_score": 0.6127
+    },
+    {
+      "id": "p_f9fd5a598dc38199",
+      "name": "Esra G.",
+      "url": "https://tr.linkedin.com/in/esragökçe96",
+      "region": "turkiye",
+      "rank_score": 0.5963
+    }
+  ],
+  "dropped": [
+    {
+      "id": "p_c39ca9560d25598d",
+      "name": "Tarik Ozket",
+      "url": "https://www.linkedin.com/in/tarikozket",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_137e295ee4f9236b",
+      "name": "Vilmar Vella",
+      "url": "https://tr.linkedin.com/in/vilmar-vella-3203a9348",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_21f9d4e6cbfd5ae9",
+      "name": "Mark Sikorsky",
+      "url": "https://ge.linkedin.com/in/mark-sikorsky-b637841b8",
+      "region": "caucasus",
+      "rank_score": null
+    },
+    {
+      "id": "p_10f6658e9305f2c7",
+      "name": "Koba Tsertsvadze",
+      "url": "https://ge.linkedin.com/in/koba-tsertsvadze-0a160594",
+      "region": "caucasus",
+      "rank_score": null
+    },
+    {
+      "id": "p_bc71cdc42f3cb4fc",
+      "name": "Ahmed Khilla",
+      "url": "https://tr.linkedin.com/in/ahmed-khilla-1b7a1b262",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_ae8d0c003e11f3bd",
+      "name": "Serpil Çifçioğlu",
+      "url": "https://tr.linkedin.com/in/serpil-çifçioğlu-35824a77",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_3c78e2a72299f4ae",
+      "name": "Baturay Üstündağ",
+      "url": "https://tr.linkedin.com/in/baturay-üstündağ-010ba9bb",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_1036ef11aa26e236",
+      "name": "Andrei Blaj",
+      "url": "https://ro.linkedin.com/in/andreiblaj",
+      "region": "cee",
+      "rank_score": null
+    },
+    {
+      "id": "p_d59bf83c13f5e110",
+      "name": "Arad Zeinali",
+      "url": "https://tr.linkedin.com/in/aradzeinali",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_feef1b526e8f0ce9",
+      "name": "Levan Panjikidze",
+      "url": "https://ge.linkedin.com/in/levan-panjikidze-179076ab",
+      "region": "caucasus",
+      "rank_score": null
+    },
+    {
+      "id": "p_44ba76a64f38658b",
+      "name": "David Sukiasyan",
+      "url": "https://am.linkedin.com/in/david-sukiasyan",
+      "region": "caucasus",
+      "rank_score": null
+    },
+    {
+      "id": "p_b8145f98d37739da",
+      "name": "Tuğra Avcı",
+      "url": "https://tr.linkedin.com/in/tugravci",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_b855407499588c53",
+      "name": "Ömer Öder",
+      "url": "https://tr.linkedin.com/in/ömer-öder",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_c5ac22b327c6bb5c",
+      "name": "Igor Malchenko",
+      "url": "https://pl.linkedin.com/in/imalchenko",
+      "region": "cee",
+      "rank_score": null
+    },
+    {
+      "id": "p_adbccf0bcde5539a",
+      "name": "Aliaksei Kulbei",
+      "url": "https://pl.linkedin.com/in/aliakseikulbei",
+      "region": "cee",
+      "rank_score": null
+    },
+    {
+      "id": "p_ae34583ff137cbe5",
+      "name": "Karol Kucharski",
+      "url": "https://pl.linkedin.com/in/karol--kucharski",
+      "region": "cee",
+      "rank_score": null
+    },
+    {
+      "id": "p_6b2b822664bac34a",
+      "name": "Marcin Mazurek",
+      "url": "https://pl.linkedin.com/in/mmazurek",
+      "region": "cee",
+      "rank_score": null
+    },
+    {
+      "id": "p_e65377d0ac428a9b",
+      "name": "Mert Akdemir",
+      "url": "https://tr.linkedin.com/in/mert-akdemir-8aa4b6408",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_ff1bae663723dbaa",
+      "name": "Ahmed Skaik",
+      "url": "https://tr.linkedin.com/in/ahmskaik",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_e03a5a91d30d7e4c",
+      "name": "Gery Meleg",
+      "url": "https://ro.linkedin.com/in/gerymeleg",
+      "region": "cee",
+      "rank_score": null
+    },
+    {
+      "id": "p_1845cb3a05fbe8a8",
+      "name": "Gunay Ozkan",
+      "url": "https://tr.linkedin.com/in/gunay-ozkan-5303432",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_53c939916d29e955",
+      "name": "Buğrahan Kacar",
+      "url": "https://tr.linkedin.com/in/bugrahankacar",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_69eff6cb51285ef9",
+      "name": "Arzu Özdemir",
+      "url": "https://tr.linkedin.com/in/arzu-özdemir-3b344093",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_30b48145e7853857",
+      "name": "Karl Robert Arulaan",
+      "url": "https://ee.linkedin.com/in/karl-robert-arulaan-47bbbb310",
+      "region": "cee",
+      "rank_score": null
+    },
+    {
+      "id": "p_00d0a2d8f4f1c6b7",
+      "name": "Furkan Kurtoğlu",
+      "url": "https://tr.linkedin.com/in/furkan-kurtoğlu",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_bc9debb972f60af3",
+      "name": "Yunus Emre Mert",
+      "url": "https://tr.linkedin.com/in/yunus-emre-mert",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_f8cfcabdffdd6ba2",
+      "name": "Gozde Cobanoglu",
+      "url": "https://www.linkedin.com/in/gozde-cobanoglu",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_4e0423ebedfd6e84",
+      "name": "Can Yıldız",
+      "url": "https://www.linkedin.com/in/canyildizrevolt",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_70d3230f7f5fc41f",
+      "name": "Mehmet R. Akcakaya",
+      "url": "https://tr.linkedin.com/in/mehmet-r-akcakaya-5248811b3",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_3d315cf6dd4e68a2",
+      "name": "Zeki Ünyıldız",
+      "url": "https://tr.linkedin.com/in/zekiunyildiz",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_aea1c2efe7552787",
+      "name": "Marek Cygan",
+      "url": "https://pl.linkedin.com/in/cygan-marek",
+      "region": "cee",
+      "rank_score": null
+    },
+    {
+      "id": "p_f58b22654a19973b",
+      "name": "Can GÜLEREN",
+      "url": "https://tr.linkedin.com/in/can-guleren",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_497131ec50d6d6c5",
+      "name": "Ömer GÖKSOY",
+      "url": "https://tr.linkedin.com/in/omergoksoy",
+      "region": "turkiye",
+      "rank_score": null
+    },
+    {
+      "id": "p_dc628f106ac4083e",
+      "name": "Bristena Nistor Stoica",
+      "url": "https://ro.linkedin.com/in/bristena-nistor-stoica-a4562259",
+      "region": "cee",
+      "rank_score": null
+    },
+    {
+      "id": "p_011ed5d970222ffb",
+      "name": "Bulent Demirhan",
+      "url": "https://tr.linkedin.com/in/bulent-demirhan-48232a2",
+      "region": "turkiye",
+      "rank_score": null
+    }
+  ],
+  "retained_count": 65,
+  "committed": false
+}

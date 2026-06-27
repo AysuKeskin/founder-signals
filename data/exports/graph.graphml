@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="kind" for="node" attr.name="kind" attr.type="string"/>
+<key id="rel" for="edge" attr.name="rel" attr.type="string"/>
+<graph edgedefault="directed">
+<node id="founder:p_cf5d0b4cb0c6294e"><data key="label">Tarık Demir</data><data key="kind">founder</data></node>
+<node id="company:lisa-ai"><data key="label">Lisa AI</data><data key="kind">company</data></node>
+<node id="region:turkiye"><data key="label">turkiye</data><data key="kind">region</data></node>
+<node id="sector:ai-ml"><data key="label">AI/ML</data><data key="kind">sector</data></node>
+<node id="founder:p_5b69bfd692b3a98e"><data key="label">Mustafa Girgin</data><data key="kind">founder</data></node>
+<node id="company:lucida-ai"><data key="label">Lucida AI</data><data key="kind">company</data></node>
+<node id="founder:p_9b424537c7117df9"><data key="label">Mustafa İçer</data><data key="kind">founder</data></node>
+<node id="company:peopleoma"><data key="label">Peopleoma</data><data key="kind">company</data></node>
+<node id="sector:saas"><data key="label">SaaS</data><data key="kind">sector</data></node>
+<node id="founder:p_07d24ea98e0c9630"><data key="label">Talha Salt</data><data key="kind">founder</data></node>
+<node id="company:stealth-fintech-startup"><data key="label">Stealth FinTech Startup</data><data key="kind">company</data></node>
+<node id="sector:cybersecurity"><data key="label">Cybersecurity</data><data key="kind">sector</data></node>
+<node id="sector:fintech"><data key="label">Fintech</data><data key="kind">sector</data></node>
+<node id="sector:healthtech"><data key="label">Healthtech</data><data key="kind">sector</data></node>
+<node id="founder:p_aa354ad5e1099ca3"><data key="label">Babken Gevorgyan</data><data key="kind">founder</data></node>
+<node id="company:layerswap"><data key="label">Layerswap</data><data key="kind">company</data></node>
+<node id="region:caucasus"><data key="label">caucasus</data><data key="kind">region</data></node>
+<node id="sector:edtech"><data key="label">Edtech</data><data key="kind">sector</data></node>
+<node id="founder:p_6150dde5cddde0d3"><data key="label">Gökhan Hatipoğlu</data><data key="kind">founder</data></node>
+<node id="company:virasoft"><data key="label">Virasoft</data><data key="kind">company</data></node>
+<node id="founder:p_4bc1984ddb52441b"><data key="label">Julius Kopczewski</data><data key="kind">founder</data></node>
+<node id="company:readycode-ltd"><data key="label">ReadyCode Ltd</data><data key="kind">company</data></node>
+<node id="region:cee"><data key="label">cee</data><data key="kind">region</data></node>
+<node id="sector:gaming"><data key="label">Gaming</data><data key="kind">sector</data></node>
+<node id="founder:p_68863c1920355945"><data key="label">Gigi Kurtanidze</data><data key="kind">founder</data></node>
+<node id="company:ai-saas-startup"><data key="label">AI SaaS Startup</data><data key="kind">company</data></node>
+<node id="founder:p_202f8a86e603c246"><data key="label">Pavlo L.</data><data key="kind">founder</data></node>
+<node id="company:trusty-gaming"><data key="label">Trusty Gaming</data><data key="kind">company</data></node>
+<node id="founder:p_642a0624c87dc6ae"><data key="label">Vusal Ibrahimli</data><data key="kind">founder</data></node>
+<node id="company:stealth-ai-startup"><data key="label">Stealth AI Startup</data><data key="kind">company</data></node>
+<node id="founder:p_00117e6f80b4c9be"><data key="label">Tomasz Ostrowski</data><data key="kind">founder</data></node>
+<node id="company:andrex-logistics-sp--z-o-o"><data key="label">Andrex Logistics Sp. z o.o.</data><data key="kind">company</data></node>
+<node id="sector:logistics"><data key="label">Logistics</data><data key="kind">sector</data></node>
+<node id="founder:p_4a68ec17619c8f7c"><data key="label">Önder Çördük</data><data key="kind">founder</data></node>
+<node id="company:t-artlog-logistics"><data key="label">T-ArtLog Logistics</data><data key="kind">company</data></node>
+<node id="founder:p_55dd591dc383fa2e"><data key="label">Yusuf C. Mülayim</data><data key="kind">founder</data></node>
+<node id="company:dmo"><data key="label">DMO</data><data key="kind">company</data></node>
+<node id="founder:p_c255b76c67d8581f"><data key="label">Batuhan Gökseven</data><data key="kind">founder</data></node>
+<node id="company:pikap-lojistik"><data key="label">Pikap Lojistik</data><data key="kind">company</data></node>
+<node id="founder:p_96c6d28f48ab7f6a"><data key="label">Stefan Vogel</data><data key="kind">founder</data></node>
+<node id="company:gamers-playground"><data key="label">Gamers Playground</data><data key="kind">company</data></node>
+<node id="founder:p_90b1fcbd1f9a748b"><data key="label">Mert Gür</data><data key="kind">founder</data></node>
+<node id="company:loop-games"><data key="label">Loop Games</data><data key="kind">company</data></node>
+<node id="founder:p_409157fb4228dd30"><data key="label">Monica Moldovan</data><data key="kind">founder</data></node>
+<node id="company:tenderly-ai"><data key="label">tenderly.ai</data><data key="kind">company</data></node>
+<node id="sector:ai"><data key="label">AI</data><data key="kind">sector</data></node>
+<node id="sector:mobility"><data key="label">Mobility</data><data key="kind">sector</data></node>
+<node id="founder:p_d1f44f37c78fd01e"><data key="label">Dominykas Čeledinas</data><data key="kind">founder</data></node>
+<node id="company:clarus-ai"><data key="label">Clarus.AI</data><data key="kind">company</data></node>
+<node id="sector:insurtech"><data key="label">Insurtech</data><data key="kind">sector</data></node>
+<node id="founder:p_9af32f0133edc6f4"><data key="label">Arman Mkhitarian</data><data key="kind">founder</data></node>
+<node id="company:askme-llc"><data key="label">AskMe LLC</data><data key="kind">company</data></node>
+<node id="founder:p_083a6443e71fb68e"><data key="label">Gera Avagyan</data><data key="kind">founder</data></node>
+<node id="company:kidguru"><data key="label">Kidguru</data><data key="kind">company</data></node>
+<node id="founder:p_bd710e21f5347e10"><data key="label">Hrachya Yeghiazaryan</data><data key="kind">founder</data></node>
+<node id="company:direlli"><data key="label">Direlli</data><data key="kind">company</data></node>
+<node id="founder:p_04f4b5c522dd5595"><data key="label">Hakan KORAL</data><data key="kind">founder</data></node>
+<node id="company:mate-logistics"><data key="label">Mate Logistics</data><data key="kind">company</data></node>
+<node id="founder:p_629620fb7140dc1c"><data key="label">Omar Kohistani</data><data key="kind">founder</data></node>
+<node id="company:deathly-me"><data key="label">Deathly.me</data><data key="kind">company</data></node>
+<node id="founder:p_b484dc8596326faa"><data key="label">Ciprian Macaveiu</data><data key="kind">founder</data></node>
+<node id="company:business-revolution-ai-hub"><data key="label">Business Revolution AI Hub</data><data key="kind">company</data></node>
+<node id="founder:p_81504a56bfd2a079"><data key="label">Aydin Güvenler</data><data key="kind">founder</data></node>
+<node id="company:demtaş-logistics"><data key="label">Demtaş Logistics</data><data key="kind">company</data></node>
+<node id="founder:p_78a9c90dd11e4969"><data key="label">Armen Grigoryan</data><data key="kind">founder</data></node>
+<node id="company:trustforge-ai"><data key="label">TrustForge AI</data><data key="kind">company</data></node>
+<node id="founder:p_2cb70e8184e33450"><data key="label">Gurhan Surmeli</data><data key="kind">founder</data></node>
+<node id="company:turing-global-logistics"><data key="label">Turing Global Logistics</data><data key="kind">company</data></node>
+<node id="founder:p_956f7882f1a365c1"><data key="label">New Global Lojistik</data><data key="kind">founder</data></node>
+<node id="company:new-global-logistics"><data key="label">New Global Logistics</data><data key="kind">company</data></node>
+<node id="founder:p_61772defaae451da"><data key="label">Neda Mihai</data><data key="kind">founder</data></node>
+<node id="company:infinite-gaming"><data key="label">Infinite Gaming</data><data key="kind">company</data></node>
+<node id="founder:p_fc1e3bff59fcb3ca"><data key="label">Ömer Faruk Bir</data><data key="kind">founder</data></node>
+<node id="company:keep-games"><data key="label">Keep Games</data><data key="kind">company</data></node>
+<node id="founder:p_597800d74af85b80"><data key="label">İsa Korkmaz</data><data key="kind">founder</data></node>
+<node id="company:navlungo"><data key="label">Navlungo</data><data key="kind">company</data></node>
+<node id="sector:e-commerce"><data key="label">E-commerce</data><data key="kind">sector</data></node>
+<node id="founder:p_371945fc61a37856"><data key="label">Hüseyin Koyuncuoğlu</data><data key="kind">founder</data></node>
+<node id="company:finsaas-ventures"><data key="label">FinSaaS Ventures</data><data key="kind">company</data></node>
+<node id="founder:p_15efbab5419c37fa"><data key="label">Emre Güzer</data><data key="kind">founder</data></node>
+<node id="company:lidio"><data key="label">Lidio</data><data key="kind">company</data></node>
+<node id="founder:p_d5c73ab56f6633e4"><data key="label">Samet Avcı</data><data key="kind">founder</data></node>
+<node id="company:av-kar-logistics"><data key="label">Av-Kar Logistics</data><data key="kind">company</data></node>
+<node id="founder:p_b9908be5357f1a79"><data key="label">Valentin Găbăruță</data><data key="kind">founder</data></node>
+<node id="company:logistics-reformed"><data key="label">Logistics Reformed</data><data key="kind">company</data></node>
+<node id="founder:p_0235b6d7e3336dd8"><data key="label">Areg Gevorgyan</data><data key="kind">founder</data></node>
+<node id="company:labz-ai"><data key="label">Labz.ai</data><data key="kind">company</data></node>
+<node id="founder:p_9d9f5666c16c181d"><data key="label">Ernest Aharonyan</data><data key="kind">founder</data></node>
+<node id="company:stealth-technology-startup"><data key="label">Stealth Technology Startup</data><data key="kind">company</data></node>
+<node id="founder:p_8cae588070abf574"><data key="label">Gor Nikoghosyan</data><data key="kind">founder</data></node>
+<node id="company:phoenix-systems-llc"><data key="label">Phoenix Systems LLC</data><data key="kind">company</data></node>
+<node id="founder:p_66efdc361085611b"><data key="label">Aydin Uysal</data><data key="kind">founder</data></node>
+<node id="company:kopilot-eğitim"><data key="label">Kopilot Eğitim</data><data key="kind">company</data></node>
+<node id="founder:p_82fdf90561f93a9d"><data key="label">Valentin Gane</data><data key="kind">founder</data></node>
+<node id="company:wynn-gaming-trade"><data key="label">Wynn Gaming Trade</data><data key="kind">company</data></node>
+<node id="founder:p_90dcc3a5d0f7b434"><data key="label">Cankat Tigin Öztemiz</data><data key="kind">founder</data></node>
+<node id="company:gamegine"><data key="label">gamegine</data><data key="kind">company</data></node>
+<node id="founder:p_1c8a26f0abaf892b"><data key="label">Mihai Gheza</data><data key="kind">founder</data></node>
+<node id="company:machinations-io"><data key="label">machinations.io</data><data key="kind">company</data></node>
+<node id="founder:p_7a17621848d94179"><data key="label">Mustafa Fırtına</data><data key="kind">founder</data></node>
+<node id="company:grand-games"><data key="label">Grand Games</data><data key="kind">company</data></node>
+<node id="founder:p_54c22aa50ad324fc"><data key="label">Erkan Gürel</data><data key="kind">founder</data></node>
+<node id="company:bigger"><data key="label">Bigger</data><data key="kind">company</data></node>
+<node id="founder:p_c737ae2d667c7120"><data key="label">irakli todua</data><data key="kind">founder</data></node>
+<node id="company:artron"><data key="label">ARTRON</data><data key="kind">company</data></node>
+<node id="founder:p_c82190919f525baf"><data key="label">Andrzej Dabrowski</data><data key="kind">founder</data></node>
+<node id="company:agentview"><data key="label">agentview</data><data key="kind">company</data></node>
+<node id="founder:p_3d02b9e5d481e898"><data key="label">Aram Khachatryan</data><data key="kind">founder</data></node>
+<node id="company:neograph-games-llc"><data key="label">NeoGraph Games LLC</data><data key="kind">company</data></node>
+<node id="founder:p_79460182ce8c5b46"><data key="label">Karen Ayvazyan</data><data key="kind">founder</data></node>
+<node id="company:ibet-agency"><data key="label">iBet Agency</data><data key="kind">company</data></node>
+<node id="founder:p_126f15ce23682a94"><data key="label">Koray Özyurt</data><data key="kind">founder</data></node>
+<node id="company:idl-games"><data key="label">IDL Games</data><data key="kind">company</data></node>
+<node id="founder:p_bf02c4300ccae9e7"><data key="label">Burak Erdem</data><data key="kind">founder</data></node>
+<node id="company:pc-gaming-startup"><data key="label">PC Gaming Startup</data><data key="kind">company</data></node>
+<node id="founder:p_8e7c42c3542ee915"><data key="label">Daniel Serban</data><data key="kind">founder</data></node>
+<node id="company:lumexo"><data key="label">Lumexo</data><data key="kind">company</data></node>
+<node id="founder:p_16024606f52c3e07"><data key="label">Sinan Akkol</data><data key="kind">founder</data></node>
+<node id="company:fiber-games"><data key="label">Fiber Games</data><data key="kind">company</data></node>
+<node id="founder:p_5b4a11da217a3e0b"><data key="label">Alik Sargsyan</data><data key="kind">founder</data></node>
+<node id="company:ngene"><data key="label">Ngene</data><data key="kind">company</data></node>
+<node id="founder:p_82afe8c8688eee21"><data key="label">Gözde Venedik</data><data key="kind">founder</data></node>
+<node id="company:help-steps"><data key="label">Help Steps</data><data key="kind">company</data></node>
+<node id="founder:p_b5fb839743dd9b6a"><data key="label">Artur Kartshikyan</data><data key="kind">founder</data></node>
+<node id="company:aeda"><data key="label">Aeda</data><data key="kind">company</data></node>
+<node id="founder:p_49177da5f210643f"><data key="label">Ani Yuzbashyan</data><data key="kind">founder</data></node>
+<node id="company:agrosyunik"><data key="label">AgroSyunik</data><data key="kind">company</data></node>
+<node id="sector:climate"><data key="label">Climate</data><data key="kind">sector</data></node>
+<node id="founder:p_a8c7c977dc9a8230"><data key="label">Tudor Darie</data><data key="kind">founder</data></node>
+<node id="company:fagura"><data key="label">Fagura</data><data key="kind">company</data></node>
+<node id="founder:p_184b4ff3c7fa5838"><data key="label">Andrei Nicolae</data><data key="kind">founder</data></node>
+<node id="company:younichoice"><data key="label">Younichoice</data><data key="kind">company</data></node>
+<node id="founder:p_5e91cbc343778139"><data key="label">Alex Govoreanu</data><data key="kind">founder</data></node>
+<node id="company:questo"><data key="label">Questo</data><data key="kind">company</data></node>
+<node id="founder:p_cc06f74d85624a81"><data key="label">Anamaria Ungur</data><data key="kind">founder</data></node>
+<node id="company:syndical"><data key="label">Syndical</data><data key="kind">company</data></node>
+<node id="founder:p_08425818724e205f"><data key="label">Alex Bardahan</data><data key="kind">founder</data></node>
+<node id="company:fastapp-group"><data key="label">Fastapp Group</data><data key="kind">company</data></node>
+<node id="founder:p_4b96a22f19116da5"><data key="label">Yomi Kastro</data><data key="kind">founder</data></node>
+<node id="company:inveon"><data key="label">Inveon</data><data key="kind">company</data></node>
+<node id="founder:p_5fe92d7de144dde9"><data key="label">CENK DOLUNAY</data><data key="kind">founder</data></node>
+<node id="company:vollmond-logistics"><data key="label">VOLLMOND LOGISTICS</data><data key="kind">company</data></node>
+<node id="founder:p_ca41f63268af2deb"><data key="label">Berker Yenal</data><data key="kind">founder</data></node>
+<node id="company:qberx"><data key="label">QberX</data><data key="kind">company</data></node>
+<node id="founder:p_7066e9333fc3d16d"><data key="label">Serge Bou Karam</data><data key="kind">founder</data></node>
+<node id="company:decomar-logistic"><data key="label">Decomar Logistic</data><data key="kind">company</data></node>
+<node id="founder:p_c9c24a75e61f00c6"><data key="label">Ayhan Yeniçeri</data><data key="kind">founder</data></node>
+<node id="company:fintech-global-teknoloji-ve-yazılım-a-ş"><data key="label">Fintech Global Teknoloji ve Yazılım A.Ş</data><data key="kind">company</data></node>
+<node id="sector:crypto-web3"><data key="label">Crypto/Web3</data><data key="kind">sector</data></node>
+<node id="founder:p_e1883676c6d2931b"><data key="label">Büşra Koçak</data><data key="kind">founder</data></node>
+<node id="company:semender-ai"><data key="label">Semender AI</data><data key="kind">company</data></node>
+<node id="founder:p_b6ba9e386ae103da"><data key="label">Andrey Mozheyko</data><data key="kind">founder</data></node>
+<node id="company:itexus"><data key="label">Itexus</data><data key="kind">company</data></node>
+<node id="founder:p_e153ab40eebcf729"><data key="label">Marcel Piekarski</data><data key="kind">founder</data></node>
+<node id="company:extentum-ai"><data key="label">Extentum AI</data><data key="kind">company</data></node>
+<node id="founder:p_aeaae1fff07bdafe"><data key="label">Adrian M</data><data key="kind">founder</data></node>
+<node id="company:developmently"><data key="label">Developmently</data><data key="kind">company</data></node>
+<node id="founder:p_228dc09b88232541"><data key="label">Cosmin Dumitrache</data><data key="kind">founder</data></node>
+<node id="company:medic-chat"><data key="label">Medic Chat</data><data key="kind">company</data></node>
+<node id="founder:p_1b2ec57873df1401"><data key="label">Hüseyin Mert</data><data key="kind">founder</data></node>
+<node id="company:monopayments"><data key="label">MonoPayments</data><data key="kind">company</data></node>
+<node id="founder:p_8bf06b3b0fe02684"><data key="label">Irina Ghazaryan</data><data key="kind">founder</data></node>
+<node id="company:doctor-yan"><data key="label">Doctor Yan</data><data key="kind">company</data></node>
+<node id="founder:p_0d87ac5685594059"><data key="label">Timur Tül</data><data key="kind">founder</data></node>
+<node id="company:sesvia"><data key="label">Sesvia</data><data key="kind">company</data></node>
+<node id="founder:p_4bae560657782f89"><data key="label">Alexander Yesayan</data><data key="kind">founder</data></node>
+<node id="company:firebird-ai"><data key="label">Firebird.ai</data><data key="kind">company</data></node>
+<node id="founder:p_b0c44824649cd514"><data key="label">Mariam Meyroyan Kachachyan</data><data key="kind">founder</data></node>
+<node id="company:eco-step-green-energy-solutions"><data key="label">Eco Step Green Energy Solutions</data><data key="kind">company</data></node>
+<node id="founder:p_f0ef1d031b6afa72"><data key="label">Ionel Popa</data><data key="kind">founder</data></node>
+<node id="company:genius-logistic"><data key="label">Genius Logistic</data><data key="kind">company</data></node>
+<node id="founder:p_b6562d015cdb07f0"><data key="label">Denis Madroane</data><data key="kind">founder</data></node>
+<node id="company:home-designs-ai"><data key="label">Home Designs AI</data><data key="kind">company</data></node>
+<node id="founder:p_4a0165fa95185bdb"><data key="label">Daniel T.</data><data key="kind">founder</data></node>
+<node id="company:wam"><data key="label">WAM</data><data key="kind">company</data></node>
+<node id="founder:p_761eb012654143bf"><data key="label">Okan Gokulu</data><data key="kind">founder</data></node>
+<node id="company:osf-logistics"><data key="label">OSF Logistics</data><data key="kind">company</data></node>
+<node id="founder:p_3c633df025c4d636"><data key="label">Nemanja Divjak Gamescom</data><data key="kind">founder</data></node>
+<node id="company:tummy-games"><data key="label">Tummy Games</data><data key="kind">company</data></node>
+<node id="founder:p_c38a8982059f3dd3"><data key="label">Dumitru Condrea</data><data key="kind">founder</data></node>
+<node id="company:novafin"><data key="label">NOVAFIN</data><data key="kind">company</data></node>
+<node id="founder:p_c5f1178f218b06ee"><data key="label">Hasan Eray KUTLU</data><data key="kind">founder</data></node>
+<node id="company:brewshot-ai"><data key="label">BrewShot AI</data><data key="kind">company</data></node>
+<node id="founder:p_f9fd5a598dc38199"><data key="label">Esra G.</data><data key="kind">founder</data></node>
+<node id="company:codevia"><data key="label">Codevia</data><data key="kind">company</data></node>
+<node id="founder:p_aa89f9c52077e5a8"><data key="label">Mary Zaitseva</data><data key="kind">founder</data></node>
+<node id="company:friendsfirst"><data key="label">FriendsFirst</data><data key="kind">company</data></node>
+<node id="founder:p_9f8c010fe00efad6"><data key="label">Samvel Aghajanyan</data><data key="kind">founder</data></node>
+<node id="company:armenian-game-changers"><data key="label">Armenian Game Changers</data><data key="kind">company</data></node>
+<node id="founder:p_4cc540068e19f1dd"><data key="label">Sadık Akgün</data><data key="kind">founder</data></node>
+<node id="company:smartai"><data key="label">SmartAi</data><data key="kind">company</data></node>
+<node id="founder:p_fd661e732e2f119d"><data key="label">Eylül Sena Yetkin</data><data key="kind">founder</data></node>
+<node id="company:moniteye"><data key="label">MonitEye</data><data key="kind">company</data></node>
+<node id="founder:p_c01bfc7a65e183ee"><data key="label">Umut Kök</data><data key="kind">founder</data></node>
+<node id="company:getir"><data key="label">Getir</data><data key="kind">company</data></node>
+<node id="founder:p_4671953c846dde61"><data key="label">Hamza Özköse</data><data key="kind">founder</data></node>
+<node id="company:en-kıymetlim"><data key="label">En Kıymetlim</data><data key="kind">company</data></node>
+<node id="founder:p_4b97e0693d09302d"><data key="label">İlgi Yılmaz</data><data key="kind">founder</data></node>
+<node id="company:meslek-atölyesi"><data key="label">Meslek Atölyesi</data><data key="kind">company</data></node>
+<node id="founder:p_34a117ff72a3ecfa"><data key="label">Mărioara Mihali</data><data key="kind">founder</data></node>
+<node id="company:rhythm-touch"><data key="label">Rhythm Touch</data><data key="kind">company</data></node>
+<node id="founder:p_f5dfd277ed79144e"><data key="label">Semen Pavlenko</data><data key="kind">founder</data></node>
+<node id="company:slvo-agency"><data key="label">SLVO Agency</data><data key="kind">company</data></node>
+<node id="founder:p_0fc63a2b6c8cc8b6"><data key="label">Marty Meydan</data><data key="kind">founder</data></node>
+<node id="founder:p_834c9016806e93d1"><data key="label">Alexandru Petru</data><data key="kind">founder</data></node>
+<node id="company:vying-technologies-ou"><data key="label">Vying Technologies OU</data><data key="kind">company</data></node>
+<node id="founder:p_bd0098e8403a2add"><data key="label">İSMAİL ÇİFTÇİ</data><data key="kind">founder</data></node>
+<node id="company:imc-global"><data key="label">IMC Global</data><data key="kind">company</data></node>
+<node id="founder:p_33f5fc3e5644656b"><data key="label">Gökhan Ceylan</data><data key="kind">founder</data></node>
+<node id="company:risk-yok"><data key="label">RiSK YOK</data><data key="kind">company</data></node>
+<node id="founder:p_24513f68a1a28079"><data key="label">Garo Khorozian</data><data key="kind">founder</data></node>
+<node id="company:khorozyan-intl-llc"><data key="label">Khorozyan Intl LLC</data><data key="kind">company</data></node>
+<node id="founder:p_c982ef18ede6de7f"><data key="label">Levon Galstyan</data><data key="kind">founder</data></node>
+<node id="company:global-am"><data key="label">Global AM</data><data key="kind">company</data></node>
+<node id="founder:p_5b4adfb93b3db55b"><data key="label">Liana Babujyan</data><data key="kind">founder</data></node>
+<node id="company:innovate"><data key="label">Innovate</data><data key="kind">company</data></node>
+<edge id="e0" source="founder:p_cf5d0b4cb0c6294e" target="company:lisa-ai"><data key="rel">FOUNDED</data></edge>
+<edge id="e1" source="founder:p_cf5d0b4cb0c6294e" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e2" source="founder:p_cf5d0b4cb0c6294e" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e3" source="founder:p_5b69bfd692b3a98e" target="company:lucida-ai"><data key="rel">FOUNDED</data></edge>
+<edge id="e4" source="founder:p_5b69bfd692b3a98e" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e5" source="founder:p_5b69bfd692b3a98e" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e6" source="founder:p_9b424537c7117df9" target="company:peopleoma"><data key="rel">FOUNDED</data></edge>
+<edge id="e7" source="founder:p_9b424537c7117df9" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e8" source="founder:p_9b424537c7117df9" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e9" source="founder:p_9b424537c7117df9" target="sector:saas"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e10" source="founder:p_07d24ea98e0c9630" target="company:stealth-fintech-startup"><data key="rel">FOUNDED</data></edge>
+<edge id="e11" source="founder:p_07d24ea98e0c9630" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e12" source="founder:p_07d24ea98e0c9630" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e13" source="founder:p_07d24ea98e0c9630" target="sector:cybersecurity"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e14" source="founder:p_07d24ea98e0c9630" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e15" source="founder:p_07d24ea98e0c9630" target="sector:healthtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e16" source="founder:p_aa354ad5e1099ca3" target="company:layerswap"><data key="rel">FOUNDED</data></edge>
+<edge id="e17" source="founder:p_aa354ad5e1099ca3" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e18" source="founder:p_aa354ad5e1099ca3" target="sector:edtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e19" source="founder:p_aa354ad5e1099ca3" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e20" source="founder:p_6150dde5cddde0d3" target="company:virasoft"><data key="rel">FOUNDED</data></edge>
+<edge id="e21" source="founder:p_6150dde5cddde0d3" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e22" source="founder:p_6150dde5cddde0d3" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e23" source="founder:p_4bc1984ddb52441b" target="company:readycode-ltd"><data key="rel">FOUNDED</data></edge>
+<edge id="e24" source="founder:p_4bc1984ddb52441b" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e25" source="founder:p_4bc1984ddb52441b" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e26" source="founder:p_68863c1920355945" target="company:ai-saas-startup"><data key="rel">FOUNDED</data></edge>
+<edge id="e27" source="founder:p_68863c1920355945" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e28" source="founder:p_68863c1920355945" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e29" source="founder:p_68863c1920355945" target="sector:saas"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e30" source="founder:p_202f8a86e603c246" target="company:trusty-gaming"><data key="rel">FOUNDED</data></edge>
+<edge id="e31" source="founder:p_202f8a86e603c246" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e32" source="founder:p_202f8a86e603c246" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e33" source="founder:p_642a0624c87dc6ae" target="company:stealth-ai-startup"><data key="rel">FOUNDED</data></edge>
+<edge id="e34" source="founder:p_642a0624c87dc6ae" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e35" source="founder:p_642a0624c87dc6ae" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e36" source="founder:p_00117e6f80b4c9be" target="company:andrex-logistics-sp--z-o-o"><data key="rel">FOUNDED</data></edge>
+<edge id="e37" source="founder:p_00117e6f80b4c9be" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e38" source="founder:p_00117e6f80b4c9be" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e39" source="founder:p_4a68ec17619c8f7c" target="company:t-artlog-logistics"><data key="rel">FOUNDED</data></edge>
+<edge id="e40" source="founder:p_4a68ec17619c8f7c" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e41" source="founder:p_4a68ec17619c8f7c" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e42" source="founder:p_55dd591dc383fa2e" target="company:dmo"><data key="rel">FOUNDED</data></edge>
+<edge id="e43" source="founder:p_55dd591dc383fa2e" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e44" source="founder:p_55dd591dc383fa2e" target="sector:healthtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e45" source="founder:p_c255b76c67d8581f" target="company:pikap-lojistik"><data key="rel">FOUNDED</data></edge>
+<edge id="e46" source="founder:p_c255b76c67d8581f" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e47" source="founder:p_c255b76c67d8581f" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e48" source="founder:p_96c6d28f48ab7f6a" target="company:gamers-playground"><data key="rel">FOUNDED</data></edge>
+<edge id="e49" source="founder:p_96c6d28f48ab7f6a" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e50" source="founder:p_96c6d28f48ab7f6a" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e51" source="founder:p_96c6d28f48ab7f6a" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e52" source="founder:p_90b1fcbd1f9a748b" target="company:loop-games"><data key="rel">FOUNDED</data></edge>
+<edge id="e53" source="founder:p_90b1fcbd1f9a748b" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e54" source="founder:p_90b1fcbd1f9a748b" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e55" source="founder:p_409157fb4228dd30" target="company:tenderly-ai"><data key="rel">FOUNDED</data></edge>
+<edge id="e56" source="founder:p_409157fb4228dd30" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e57" source="founder:p_409157fb4228dd30" target="sector:ai"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e58" source="founder:p_409157fb4228dd30" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e59" source="founder:p_409157fb4228dd30" target="sector:healthtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e60" source="founder:p_409157fb4228dd30" target="sector:mobility"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e61" source="founder:p_409157fb4228dd30" target="sector:saas"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e62" source="founder:p_d1f44f37c78fd01e" target="company:clarus-ai"><data key="rel">FOUNDED</data></edge>
+<edge id="e63" source="founder:p_d1f44f37c78fd01e" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e64" source="founder:p_d1f44f37c78fd01e" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e65" source="founder:p_d1f44f37c78fd01e" target="sector:edtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e66" source="founder:p_d1f44f37c78fd01e" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e67" source="founder:p_d1f44f37c78fd01e" target="sector:insurtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e68" source="founder:p_9af32f0133edc6f4" target="company:askme-llc"><data key="rel">FOUNDED</data></edge>
+<edge id="e69" source="founder:p_9af32f0133edc6f4" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e70" source="founder:p_9af32f0133edc6f4" target="sector:edtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e71" source="founder:p_083a6443e71fb68e" target="company:kidguru"><data key="rel">FOUNDED</data></edge>
+<edge id="e72" source="founder:p_083a6443e71fb68e" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e73" source="founder:p_083a6443e71fb68e" target="sector:edtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e74" source="founder:p_bd710e21f5347e10" target="company:direlli"><data key="rel">FOUNDED</data></edge>
+<edge id="e75" source="founder:p_bd710e21f5347e10" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e76" source="founder:p_bd710e21f5347e10" target="sector:edtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e77" source="founder:p_04f4b5c522dd5595" target="company:mate-logistics"><data key="rel">FOUNDED</data></edge>
+<edge id="e78" source="founder:p_04f4b5c522dd5595" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e79" source="founder:p_04f4b5c522dd5595" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e80" source="founder:p_629620fb7140dc1c" target="company:deathly-me"><data key="rel">FOUNDED</data></edge>
+<edge id="e81" source="founder:p_629620fb7140dc1c" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e82" source="founder:p_629620fb7140dc1c" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e83" source="founder:p_b484dc8596326faa" target="company:business-revolution-ai-hub"><data key="rel">FOUNDED</data></edge>
+<edge id="e84" source="founder:p_b484dc8596326faa" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e85" source="founder:p_b484dc8596326faa" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e86" source="founder:p_81504a56bfd2a079" target="company:demtaş-logistics"><data key="rel">FOUNDED</data></edge>
+<edge id="e87" source="founder:p_81504a56bfd2a079" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e88" source="founder:p_81504a56bfd2a079" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e89" source="founder:p_78a9c90dd11e4969" target="company:trustforge-ai"><data key="rel">FOUNDED</data></edge>
+<edge id="e90" source="founder:p_78a9c90dd11e4969" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e91" source="founder:p_78a9c90dd11e4969" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e92" source="founder:p_2cb70e8184e33450" target="company:turing-global-logistics"><data key="rel">FOUNDED</data></edge>
+<edge id="e93" source="founder:p_2cb70e8184e33450" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e94" source="founder:p_2cb70e8184e33450" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e95" source="founder:p_956f7882f1a365c1" target="company:new-global-logistics"><data key="rel">FOUNDED</data></edge>
+<edge id="e96" source="founder:p_956f7882f1a365c1" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e97" source="founder:p_956f7882f1a365c1" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e98" source="founder:p_956f7882f1a365c1" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e99" source="founder:p_61772defaae451da" target="company:infinite-gaming"><data key="rel">FOUNDED</data></edge>
+<edge id="e100" source="founder:p_61772defaae451da" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e101" source="founder:p_61772defaae451da" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e102" source="founder:p_fc1e3bff59fcb3ca" target="company:keep-games"><data key="rel">FOUNDED</data></edge>
+<edge id="e103" source="founder:p_fc1e3bff59fcb3ca" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e104" source="founder:p_fc1e3bff59fcb3ca" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e105" source="founder:p_597800d74af85b80" target="company:navlungo"><data key="rel">FOUNDED</data></edge>
+<edge id="e106" source="founder:p_597800d74af85b80" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e107" source="founder:p_597800d74af85b80" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e108" source="founder:p_597800d74af85b80" target="sector:e-commerce"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e109" source="founder:p_597800d74af85b80" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e110" source="founder:p_371945fc61a37856" target="company:finsaas-ventures"><data key="rel">FOUNDED</data></edge>
+<edge id="e111" source="founder:p_371945fc61a37856" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e112" source="founder:p_371945fc61a37856" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e113" source="founder:p_15efbab5419c37fa" target="company:lidio"><data key="rel">FOUNDED</data></edge>
+<edge id="e114" source="founder:p_15efbab5419c37fa" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e115" source="founder:p_15efbab5419c37fa" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e116" source="founder:p_d5c73ab56f6633e4" target="company:av-kar-logistics"><data key="rel">FOUNDED</data></edge>
+<edge id="e117" source="founder:p_d5c73ab56f6633e4" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e118" source="founder:p_d5c73ab56f6633e4" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e119" source="founder:p_b9908be5357f1a79" target="company:logistics-reformed"><data key="rel">FOUNDED</data></edge>
+<edge id="e120" source="founder:p_b9908be5357f1a79" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e121" source="founder:p_b9908be5357f1a79" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e122" source="founder:p_0235b6d7e3336dd8" target="company:labz-ai"><data key="rel">FOUNDED</data></edge>
+<edge id="e123" source="founder:p_0235b6d7e3336dd8" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e124" source="founder:p_0235b6d7e3336dd8" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e125" source="founder:p_0235b6d7e3336dd8" target="sector:healthtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e126" source="founder:p_9d9f5666c16c181d" target="company:stealth-technology-startup"><data key="rel">FOUNDED</data></edge>
+<edge id="e127" source="founder:p_9d9f5666c16c181d" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e128" source="founder:p_9d9f5666c16c181d" target="sector:edtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e129" source="founder:p_8cae588070abf574" target="company:phoenix-systems-llc"><data key="rel">FOUNDED</data></edge>
+<edge id="e130" source="founder:p_8cae588070abf574" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e131" source="founder:p_8cae588070abf574" target="sector:e-commerce"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e132" source="founder:p_66efdc361085611b" target="company:kopilot-eğitim"><data key="rel">FOUNDED</data></edge>
+<edge id="e133" source="founder:p_66efdc361085611b" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e134" source="founder:p_66efdc361085611b" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e135" source="founder:p_66efdc361085611b" target="sector:edtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e136" source="founder:p_82fdf90561f93a9d" target="company:wynn-gaming-trade"><data key="rel">FOUNDED</data></edge>
+<edge id="e137" source="founder:p_82fdf90561f93a9d" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e138" source="founder:p_82fdf90561f93a9d" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e139" source="founder:p_90dcc3a5d0f7b434" target="company:gamegine"><data key="rel">FOUNDED</data></edge>
+<edge id="e140" source="founder:p_90dcc3a5d0f7b434" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e141" source="founder:p_90dcc3a5d0f7b434" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e142" source="founder:p_1c8a26f0abaf892b" target="company:machinations-io"><data key="rel">FOUNDED</data></edge>
+<edge id="e143" source="founder:p_1c8a26f0abaf892b" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e144" source="founder:p_1c8a26f0abaf892b" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e145" source="founder:p_1c8a26f0abaf892b" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e146" source="founder:p_7a17621848d94179" target="company:grand-games"><data key="rel">FOUNDED</data></edge>
+<edge id="e147" source="founder:p_7a17621848d94179" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e148" source="founder:p_7a17621848d94179" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e149" source="founder:p_54c22aa50ad324fc" target="company:bigger"><data key="rel">FOUNDED</data></edge>
+<edge id="e150" source="founder:p_54c22aa50ad324fc" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e151" source="founder:p_54c22aa50ad324fc" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e152" source="founder:p_c737ae2d667c7120" target="company:artron"><data key="rel">FOUNDED</data></edge>
+<edge id="e153" source="founder:p_c737ae2d667c7120" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e154" source="founder:p_c737ae2d667c7120" target="sector:edtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e155" source="founder:p_c82190919f525baf" target="company:agentview"><data key="rel">FOUNDED</data></edge>
+<edge id="e156" source="founder:p_c82190919f525baf" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e157" source="founder:p_c82190919f525baf" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e158" source="founder:p_3d02b9e5d481e898" target="company:neograph-games-llc"><data key="rel">FOUNDED</data></edge>
+<edge id="e159" source="founder:p_3d02b9e5d481e898" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e160" source="founder:p_3d02b9e5d481e898" target="sector:edtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e161" source="founder:p_3d02b9e5d481e898" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e162" source="founder:p_79460182ce8c5b46" target="company:ibet-agency"><data key="rel">FOUNDED</data></edge>
+<edge id="e163" source="founder:p_79460182ce8c5b46" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e164" source="founder:p_79460182ce8c5b46" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e165" source="founder:p_126f15ce23682a94" target="company:idl-games"><data key="rel">FOUNDED</data></edge>
+<edge id="e166" source="founder:p_126f15ce23682a94" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e167" source="founder:p_126f15ce23682a94" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e168" source="founder:p_bf02c4300ccae9e7" target="company:pc-gaming-startup"><data key="rel">FOUNDED</data></edge>
+<edge id="e169" source="founder:p_bf02c4300ccae9e7" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e170" source="founder:p_bf02c4300ccae9e7" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e171" source="founder:p_8e7c42c3542ee915" target="company:lumexo"><data key="rel">FOUNDED</data></edge>
+<edge id="e172" source="founder:p_8e7c42c3542ee915" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e173" source="founder:p_8e7c42c3542ee915" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e174" source="founder:p_16024606f52c3e07" target="company:fiber-games"><data key="rel">FOUNDED</data></edge>
+<edge id="e175" source="founder:p_16024606f52c3e07" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e176" source="founder:p_16024606f52c3e07" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e177" source="founder:p_5b4a11da217a3e0b" target="company:ngene"><data key="rel">FOUNDED</data></edge>
+<edge id="e178" source="founder:p_5b4a11da217a3e0b" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e179" source="founder:p_5b4a11da217a3e0b" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e180" source="founder:p_82afe8c8688eee21" target="company:help-steps"><data key="rel">FOUNDED</data></edge>
+<edge id="e181" source="founder:p_82afe8c8688eee21" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e182" source="founder:p_82afe8c8688eee21" target="sector:healthtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e183" source="founder:p_b5fb839743dd9b6a" target="company:aeda"><data key="rel">FOUNDED</data></edge>
+<edge id="e184" source="founder:p_b5fb839743dd9b6a" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e185" source="founder:p_b5fb839743dd9b6a" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e186" source="founder:p_49177da5f210643f" target="company:agrosyunik"><data key="rel">FOUNDED</data></edge>
+<edge id="e187" source="founder:p_49177da5f210643f" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e188" source="founder:p_49177da5f210643f" target="sector:climate"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e189" source="founder:p_a8c7c977dc9a8230" target="company:fagura"><data key="rel">FOUNDED</data></edge>
+<edge id="e190" source="founder:p_a8c7c977dc9a8230" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e191" source="founder:p_a8c7c977dc9a8230" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e192" source="founder:p_184b4ff3c7fa5838" target="company:younichoice"><data key="rel">FOUNDED</data></edge>
+<edge id="e193" source="founder:p_184b4ff3c7fa5838" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e194" source="founder:p_184b4ff3c7fa5838" target="sector:edtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e195" source="founder:p_5e91cbc343778139" target="company:questo"><data key="rel">FOUNDED</data></edge>
+<edge id="e196" source="founder:p_5e91cbc343778139" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e197" source="founder:p_5e91cbc343778139" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e198" source="founder:p_cc06f74d85624a81" target="company:syndical"><data key="rel">FOUNDED</data></edge>
+<edge id="e199" source="founder:p_cc06f74d85624a81" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e200" source="founder:p_cc06f74d85624a81" target="sector:healthtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e201" source="founder:p_08425818724e205f" target="company:fastapp-group"><data key="rel">FOUNDED</data></edge>
+<edge id="e202" source="founder:p_08425818724e205f" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e203" source="founder:p_08425818724e205f" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e204" source="founder:p_08425818724e205f" target="sector:saas"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e205" source="founder:p_4b96a22f19116da5" target="company:inveon"><data key="rel">FOUNDED</data></edge>
+<edge id="e206" source="founder:p_4b96a22f19116da5" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e207" source="founder:p_4b96a22f19116da5" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e208" source="founder:p_5fe92d7de144dde9" target="company:vollmond-logistics"><data key="rel">FOUNDED</data></edge>
+<edge id="e209" source="founder:p_5fe92d7de144dde9" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e210" source="founder:p_5fe92d7de144dde9" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e211" source="founder:p_ca41f63268af2deb" target="company:qberx"><data key="rel">FOUNDED</data></edge>
+<edge id="e212" source="founder:p_ca41f63268af2deb" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e213" source="founder:p_ca41f63268af2deb" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e214" source="founder:p_ca41f63268af2deb" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e215" source="founder:p_7066e9333fc3d16d" target="company:decomar-logistic"><data key="rel">FOUNDED</data></edge>
+<edge id="e216" source="founder:p_7066e9333fc3d16d" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e217" source="founder:p_7066e9333fc3d16d" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e218" source="founder:p_c9c24a75e61f00c6" target="company:fintech-global-teknoloji-ve-yazılım-a-ş"><data key="rel">FOUNDED</data></edge>
+<edge id="e219" source="founder:p_c9c24a75e61f00c6" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e220" source="founder:p_c9c24a75e61f00c6" target="sector:crypto-web3"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e221" source="founder:p_c9c24a75e61f00c6" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e222" source="founder:p_e1883676c6d2931b" target="company:semender-ai"><data key="rel">FOUNDED</data></edge>
+<edge id="e223" source="founder:p_e1883676c6d2931b" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e224" source="founder:p_e1883676c6d2931b" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e225" source="founder:p_b6ba9e386ae103da" target="company:itexus"><data key="rel">FOUNDED</data></edge>
+<edge id="e226" source="founder:p_b6ba9e386ae103da" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e227" source="founder:p_b6ba9e386ae103da" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e228" source="founder:p_b6ba9e386ae103da" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e229" source="founder:p_e153ab40eebcf729" target="company:extentum-ai"><data key="rel">FOUNDED</data></edge>
+<edge id="e230" source="founder:p_e153ab40eebcf729" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e231" source="founder:p_e153ab40eebcf729" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e232" source="founder:p_aeaae1fff07bdafe" target="company:developmently"><data key="rel">FOUNDED</data></edge>
+<edge id="e233" source="founder:p_aeaae1fff07bdafe" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e234" source="founder:p_aeaae1fff07bdafe" target="sector:saas"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e235" source="founder:p_228dc09b88232541" target="company:medic-chat"><data key="rel">FOUNDED</data></edge>
+<edge id="e236" source="founder:p_228dc09b88232541" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e237" source="founder:p_228dc09b88232541" target="sector:healthtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e238" source="founder:p_1b2ec57873df1401" target="company:monopayments"><data key="rel">FOUNDED</data></edge>
+<edge id="e239" source="founder:p_1b2ec57873df1401" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e240" source="founder:p_1b2ec57873df1401" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e241" source="founder:p_1b2ec57873df1401" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e242" source="founder:p_8bf06b3b0fe02684" target="company:doctor-yan"><data key="rel">FOUNDED</data></edge>
+<edge id="e243" source="founder:p_8bf06b3b0fe02684" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e244" source="founder:p_8bf06b3b0fe02684" target="sector:healthtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e245" source="founder:p_0d87ac5685594059" target="company:sesvia"><data key="rel">FOUNDED</data></edge>
+<edge id="e246" source="founder:p_0d87ac5685594059" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e247" source="founder:p_0d87ac5685594059" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e248" source="founder:p_0d87ac5685594059" target="sector:crypto-web3"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e249" source="founder:p_4bae560657782f89" target="company:firebird-ai"><data key="rel">FOUNDED</data></edge>
+<edge id="e250" source="founder:p_4bae560657782f89" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e251" source="founder:p_4bae560657782f89" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e252" source="founder:p_b0c44824649cd514" target="company:eco-step-green-energy-solutions"><data key="rel">FOUNDED</data></edge>
+<edge id="e253" source="founder:p_b0c44824649cd514" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e254" source="founder:p_b0c44824649cd514" target="sector:climate"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e255" source="founder:p_f0ef1d031b6afa72" target="company:genius-logistic"><data key="rel">FOUNDED</data></edge>
+<edge id="e256" source="founder:p_f0ef1d031b6afa72" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e257" source="founder:p_f0ef1d031b6afa72" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e258" source="founder:p_b6562d015cdb07f0" target="company:home-designs-ai"><data key="rel">FOUNDED</data></edge>
+<edge id="e259" source="founder:p_b6562d015cdb07f0" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e260" source="founder:p_b6562d015cdb07f0" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e261" source="founder:p_b6562d015cdb07f0" target="sector:saas"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e262" source="founder:p_4a0165fa95185bdb" target="company:wam"><data key="rel">FOUNDED</data></edge>
+<edge id="e263" source="founder:p_4a0165fa95185bdb" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e264" source="founder:p_4a0165fa95185bdb" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e265" source="founder:p_4a0165fa95185bdb" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e266" source="founder:p_761eb012654143bf" target="company:osf-logistics"><data key="rel">FOUNDED</data></edge>
+<edge id="e267" source="founder:p_761eb012654143bf" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e268" source="founder:p_761eb012654143bf" target="sector:logistics"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e269" source="founder:p_3c633df025c4d636" target="company:tummy-games"><data key="rel">FOUNDED</data></edge>
+<edge id="e270" source="founder:p_3c633df025c4d636" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e271" source="founder:p_3c633df025c4d636" target="sector:gaming"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e272" source="founder:p_c38a8982059f3dd3" target="company:novafin"><data key="rel">FOUNDED</data></edge>
+<edge id="e273" source="founder:p_c38a8982059f3dd3" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e274" source="founder:p_c38a8982059f3dd3" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e275" source="founder:p_c38a8982059f3dd3" target="sector:saas"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e276" source="founder:p_c5f1178f218b06ee" target="company:brewshot-ai"><data key="rel">FOUNDED</data></edge>
+<edge id="e277" source="founder:p_c5f1178f218b06ee" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e278" source="founder:p_c5f1178f218b06ee" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e279" source="founder:p_c5f1178f218b06ee" target="sector:saas"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e280" source="founder:p_f9fd5a598dc38199" target="company:codevia"><data key="rel">FOUNDED</data></edge>
+<edge id="e281" source="founder:p_f9fd5a598dc38199" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e282" source="founder:p_f9fd5a598dc38199" target="sector:ai-ml"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e283" source="founder:p_f9fd5a598dc38199" target="sector:edtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e284" source="founder:p_f9fd5a598dc38199" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e285" source="founder:p_f9fd5a598dc38199" target="sector:healthtech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e286" source="founder:p_aa89f9c52077e5a8" target="company:friendsfirst"><data key="rel">FOUNDED</data></edge>
+<edge id="e287" source="founder:p_aa89f9c52077e5a8" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e288" source="founder:p_9f8c010fe00efad6" target="company:armenian-game-changers"><data key="rel">FOUNDED</data></edge>
+<edge id="e289" source="founder:p_9f8c010fe00efad6" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e290" source="founder:p_4cc540068e19f1dd" target="company:smartai"><data key="rel">FOUNDED</data></edge>
+<edge id="e291" source="founder:p_4cc540068e19f1dd" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e292" source="founder:p_fd661e732e2f119d" target="company:moniteye"><data key="rel">FOUNDED</data></edge>
+<edge id="e293" source="founder:p_fd661e732e2f119d" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e294" source="founder:p_c01bfc7a65e183ee" target="company:getir"><data key="rel">FOUNDED</data></edge>
+<edge id="e295" source="founder:p_c01bfc7a65e183ee" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e296" source="founder:p_4671953c846dde61" target="company:en-kıymetlim"><data key="rel">FOUNDED</data></edge>
+<edge id="e297" source="founder:p_4671953c846dde61" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e298" source="founder:p_4b97e0693d09302d" target="company:meslek-atölyesi"><data key="rel">FOUNDED</data></edge>
+<edge id="e299" source="founder:p_4b97e0693d09302d" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e300" source="founder:p_34a117ff72a3ecfa" target="company:rhythm-touch"><data key="rel">FOUNDED</data></edge>
+<edge id="e301" source="founder:p_34a117ff72a3ecfa" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e302" source="founder:p_f5dfd277ed79144e" target="company:slvo-agency"><data key="rel">FOUNDED</data></edge>
+<edge id="e303" source="founder:p_f5dfd277ed79144e" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e304" source="founder:p_0fc63a2b6c8cc8b6" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e305" source="founder:p_0fc63a2b6c8cc8b6" target="sector:fintech"><data key="rel">IN_SECTOR</data></edge>
+<edge id="e306" source="founder:p_834c9016806e93d1" target="company:vying-technologies-ou"><data key="rel">FOUNDED</data></edge>
+<edge id="e307" source="founder:p_834c9016806e93d1" target="region:cee"><data key="rel">IN_REGION</data></edge>
+<edge id="e308" source="founder:p_bd0098e8403a2add" target="company:imc-global"><data key="rel">FOUNDED</data></edge>
+<edge id="e309" source="founder:p_bd0098e8403a2add" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e310" source="founder:p_33f5fc3e5644656b" target="company:risk-yok"><data key="rel">FOUNDED</data></edge>
+<edge id="e311" source="founder:p_33f5fc3e5644656b" target="region:turkiye"><data key="rel">IN_REGION</data></edge>
+<edge id="e312" source="founder:p_24513f68a1a28079" target="company:khorozyan-intl-llc"><data key="rel">FOUNDED</data></edge>
+<edge id="e313" source="founder:p_24513f68a1a28079" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e314" source="founder:p_c982ef18ede6de7f" target="company:global-am"><data key="rel">FOUNDED</data></edge>
+<edge id="e315" source="founder:p_c982ef18ede6de7f" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+<edge id="e316" source="founder:p_5b4adfb93b3db55b" target="company:innovate"><data key="rel">FOUNDED</data></edge>
+<edge id="e317" source="founder:p_5b4adfb93b3db55b" target="region:caucasus"><data key="rel">IN_REGION</data></edge>
+</graph>
+</graphml>
