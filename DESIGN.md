@@ -69,7 +69,8 @@ stronger than others.
 ## Extraction: regex vs LLM
 
 Turning a messy LinkedIn search snippet into structured fields (company, role,
-city, sectors) is the brittle part. Three backends, chosen by `FS_EXTRACT`:
+city, sectors, company_stage) is the brittle part. Three backends, chosen by
+`FS_EXTRACT`:
 
 - **`regex`:** rules in `pipeline/extract.py` that read LinkedIn's labelled fields
   when present (`Deneyim:`/Experience, `Konum:`/Location) and fall back to headline
@@ -153,6 +154,8 @@ data/history/previous.json
 
 `capture` saves the old fixture as the previous snapshot before writing a new
 fixture, so replaying the fixture (a plain `run`) does not move the diff baseline.
+If the snapshot is missing, the first diff is treated as the baseline and can be
+saved locally with `founder-signals diff --commit`.
 
 ## Logging
 

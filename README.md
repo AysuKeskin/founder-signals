@@ -72,9 +72,9 @@ Where discovery/enrichment get their data:
 
 ### Extraction backend: `FS_EXTRACT` (only affects `run`)
 
-How `run` turns each snippet into fields (company, role, city, sectors). Parsing
-messy LinkedIn snippets is the brittle part, so there are three backends — the
-default is **`auto`**:
+How `run` turns each snippet into fields (company, role, city, sectors,
+company_stage). Parsing messy LinkedIn snippets is the brittle part, so there are
+three backends — the default is **`auto`**:
 
 | `FS_EXTRACT` | What it does | Company filled | Speed (100) | API key |
 |---|---|---|---|---|
@@ -94,9 +94,8 @@ its empty fields (including city) **without overwriting what regex already found
 
 For the **cleanest possible export**, use `llm`. `auto` trusts regex wherever it
 produced a value; `llm` re-derives every field, so it also *improves* values that
-regex filled but got weak or partial (e.g. a vague role). It costs ~2× the time
-and calls of `auto` for a small bump (role 93→97, city 58→60 in our runs), so:
-**use `auto` for day-to-day, and `llm` for a final, ship-quality export.**
+regex filled but got weak or partial. It costs roughly twice the calls and time
+of `auto`, so use `auto` for day-to-day runs and `llm` for a final export.
 
 **To enable the LLM** (for `auto`/`llm`), set these in `.env`:
 
@@ -129,7 +128,7 @@ Each line is one JSON event, including `stage_start`, `stage_end`,
 what each stage did and how long it took:
 
 ```bash
-cat "data/runs/$(ls -t data/runs | head -1)"
+tail -n 20 data/runs/*.jsonl
 ```
 
 ## Quickstart (Docker)
